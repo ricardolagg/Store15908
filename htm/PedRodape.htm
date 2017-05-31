@@ -1,0 +1,42 @@
+<!-- Includes CSS -->
+<link href="<BaseLoja>htm/LojaEstilos.css" rel="stylesheet">
+
+<!-- Begin: PedFooter -->
+<div class="FooterPedPositionFC">
+  <div class="row">
+    <div class="SecurityLogos">
+      <img src="<BaseLoja>images/Comodo.svg" width="150px" height="58px" alt="Seu pedido com Segurança" title="Site Seguro e Autenticado pela Comodo">
+      <img src="<BaseLoja>images/seguranca_selos.svg" alt="Seu pedido com Segurança" title="Seu pedido com Segurança">
+    </div>
+  </div>
+
+  <!-- Begin: Technology - Copyright -->
+  <div class="FooterTecBoxFC">
+    <div class="MainContainer FooterTecHeightFC">
+      <div class="row">
+        <div class="col-small-12 col-medium-6 col-large-6 col-xlarge-6 text-left text-small-center">
+          <p class="FooterTecFastCommerce"><a href="http://www.fastcommerce.com.br/home.asp?idloja=1&origem=tecfc&utm_source=Lojas+FastCommerce&utm_medium=Selo&utm_campaign=Tecnologia+FastCommerce" target="_blank">Tecnologia de comércio eletrônico <strong>FastCommerce</strong></a></p>
+        </div>
+        <div class="col-small-12 col-medium-6 col-large-6 col-xlarge-6 text-right text-small-center">
+          <p class="FooterPedAddFastCommerce">Copyright © <span id="FooterFullYear"></span> <strong><NomeLoja></strong></p>
+          <p class="FooterPedAddFastCommerce"><CompanyName> &middot; <span style="white-space:nowrap;">CPNJ: <CompanyDocument></span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End: Technology - Copyright -->
+</div>
+<!-- End: PedFooter -->
+
+<script>fnFooterPed();</script>
+
+<script>
+function Valida() {
+	var P2DataNasc = Form1.P2DataNasc.value;
+	if (P2DataNasc == "") {
+		alert('Preencha o campo com sua DATA DE NASCIMENTO');
+		Form1.P2DataNasc.focus();
+		return false;
+	}	
+}
+</script>
