@@ -1,0 +1,21 @@
+<html>
+<head>
+<script language=JavaScript src=/sistema/RequestObject.js></script>
+<script language=JavaScript src=/sistema/LojaSite.js></script>
+<script>
+function f(){
+  setTimeout('try{fechaIf();}catch(e){}',1);
+}
+</script>
+<title>Foto ampliada</title>
+</head>
+<body leftmargin=0 topmargin=0 marginwidth=0 marginheight=0 bgcolor=#FFFFFF bgproperties=fixed text=#333333 link=#0000FF vlink=#FF0000 alink=#6E7CFF onLoad='self.focus();'>
+
+<table width=100%><tr><td align=center>
+<script>
+document.write('<br><img src=../../../'+(Request.QueryString("foto"))+' onclick="f();" alt="clique para fechar" style="cursor:hand;"></b><br><br>');
+</script>
+</td></tr></table>
+
+</body>
+</html>
