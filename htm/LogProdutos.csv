@@ -1,0 +1,2783 @@
+NomeCat,CodProd,NomeProd,IDProduto,Usuario,Data,Obs e campos antes das alterações
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"juliana",13/03/2013 15:10:00,"Obs=F: City Bijoux
+Q: 18
+Luciana contou, Aleksia colocou código e Juliana cadastrou.
+Foto: Renata
+Novo"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",21/03/2013 13:40:00,"Obs=Pedido 43350 cancelado
+Estoque=0
+DataProdAlteracao=18/03/2013 07:37:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",21/03/2013 13:40:00,"Obs=Pedido 43349 cancelado
+Estoque=3
+DataProdAlteracao=21/03/2013 13:40:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"jenifer",21/03/2013 13:41:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",21/03/2013 13:44:00,"Obs=Pedido 43161 cancelado
+Estoque=8
+DataProdAlteracao=21/03/2013 13:41:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",26/03/2013 09:01:00,"Obs=Pedido 43397 cancelado
+Estoque=0
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",26/03/2013 09:01:00,"Obs=Pedido 43374 cancelado
+Estoque=1
+DataProdAlteracao=26/03/2013 09:01:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",26/03/2013 09:06:00,"Obs=Pedido 43427 cancelado
+Estoque=2
+DataProdAlteracao=26/03/2013 09:01:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"juliana",26/03/2013 09:32:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"jenifer",27/03/2013 16:28:00,"Obs=QAn: 0
+QAc: 14
+Luciana contou, colocou código e Jenifer alterou.
+Estoque=0
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",28/03/2013 09:37:00,"Obs=Pedido 43994 cancelado
+Estoque=14
+DataProdAlteracao=27/03/2013 16:28:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",28/03/2013 09:37:00,"Obs=Pedido 43991 cancelado
+Estoque=15
+DataProdAlteracao=28/03/2013 09:37:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",28/03/2013 09:37:00,"Obs=Pedido 43969 cancelado
+Estoque=16
+DataProdAlteracao=28/03/2013 09:37:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",28/03/2013 09:41:00,"Obs=Pedido 43793 cancelado
+Estoque=17
+DataProdAlteracao=28/03/2013 09:37:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",05/04/2013 15:14:00,"Obs=Pedido 44606 cancelado
+Estoque=0
+DataProdAlteracao=01/04/2013 10:05:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",05/04/2013 15:14:00,"Obs=Pedido 44601 cancelado
+Estoque=1
+DataProdAlteracao=05/04/2013 15:14:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",05/04/2013 15:17:00,"Obs=Pedido 44612 cancelado
+Estoque=2
+DataProdAlteracao=05/04/2013 15:14:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"juliana",06/04/2013 11:02:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"jenifer",30/04/2013 15:47:00,"Obs=QAn: 0
+QAc: 23
+Juliana contou, colocou código e Jenifer alterou.
+Estoque=0
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",02/05/2013 09:20:00,"Obs=Pedido 48288 cancelado
+Estoque=20
+DataProdAlteracao=30/04/2013 15:47:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",10/05/2013 10:26:00,"Obs=Pedido 48258 cancelado
+Estoque=17
+DataProdAlteracao=02/05/2013 09:20:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",17/05/2013 11:22:00,"Obs=Pedido 49314 cancelado
+Estoque=17
+DataProdAlteracao=10/05/2013 10:26:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"jenifer",27/05/2013 14:47:00,"Obs=QAn: 0
+QAc: 88
+Dona Marlise contou, colocou código e Jenifer alterou.
+Estoque=0
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",31/05/2013 13:51:00,"Obs=Pedido 50436 cancelado
+Estoque=88
+DataProdAlteracao=27/05/2013 14:47:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",31/05/2013 13:53:00,"Obs=Pedido 50632 cancelado
+Estoque=89
+DataProdAlteracao=31/05/2013 13:51:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",31/05/2013 13:53:00,"Obs=Pedido 50693 cancelado
+Estoque=92
+DataProdAlteracao=31/05/2013 13:53:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",31/05/2013 13:54:00,"Obs=Pedido 50665 cancelado
+Estoque=93
+DataProdAlteracao=31/05/2013 13:53:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",31/05/2013 13:54:00,"Obs=Pedido 50775 cancelado
+Estoque=94
+DataProdAlteracao=31/05/2013 13:54:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",31/05/2013 14:47:00,"Obs=Pedido 50771 cancelado
+Estoque=96
+DataProdAlteracao=31/05/2013 13:54:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",13/06/2013 16:33:00,"Obs=Pedido 52861 cancelado
+Estoque=93
+DataProdAlteracao=31/05/2013 14:47:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",21/06/2013 16:47:00,"Obs=Pedido 52521 cancelado
+Estoque=91
+DataProdAlteracao=13/06/2013 16:33:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",28/06/2013 12:34:00,"Obs=Pedido 53215 cancelado
+Estoque=92
+DataProdAlteracao=21/06/2013 16:47:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",28/06/2013 12:42:00,"Obs=Pedido 53804 cancelado
+Estoque=93
+DataProdAlteracao=28/06/2013 12:34:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",28/06/2013 12:42:00,"Obs=Pedido 53776 cancelado
+Estoque=94
+DataProdAlteracao=28/06/2013 12:42:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",12/07/2013 11:58:00,"Obs=Pedido 54960 cancelado
+Estoque=72
+DataProdAlteracao=28/06/2013 12:42:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",12/07/2013 11:58:00,"Obs=Pedido 55081 cancelado
+Estoque=73
+DataProdAlteracao=12/07/2013 11:58:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",12/07/2013 12:23:00,"Obs=Pedido 55597 cancelado
+Estoque=74
+DataProdAlteracao=12/07/2013 11:58:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",19/07/2013 09:44:00,"Obs=Pedido 55463 cancelado
+Estoque=71
+DataProdAlteracao=12/07/2013 12:23:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",19/07/2013 09:45:00,"Obs=Pedido 55740 cancelado
+Estoque=72
+DataProdAlteracao=19/07/2013 09:44:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",19/07/2013 09:45:00,"Obs=Pedido 55697 cancelado
+Estoque=74
+DataProdAlteracao=19/07/2013 09:45:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",19/07/2013 09:45:00,"Obs=Pedido 55696 cancelado
+Estoque=75
+DataProdAlteracao=19/07/2013 09:45:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",19/07/2013 09:45:00,"Obs=Pedido 55642 cancelado
+Estoque=76
+DataProdAlteracao=19/07/2013 09:45:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",19/07/2013 09:48:00,"Obs=Pedido 55461 cancelado
+Estoque=77
+DataProdAlteracao=19/07/2013 09:45:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",19/07/2013 09:48:00,"Obs=Pedido 55435 cancelado
+Estoque=78
+DataProdAlteracao=19/07/2013 09:48:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",19/07/2013 09:49:00,"Obs=Pedido 55638 cancelado
+Estoque=79
+DataProdAlteracao=19/07/2013 09:48:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",19/07/2013 09:50:00,"Obs=Pedido 55693 cancelado
+Estoque=80
+DataProdAlteracao=19/07/2013 09:49:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",26/07/2013 16:46:00,"Obs=Pedido 56007 cancelado
+Estoque=70
+DataProdAlteracao=19/07/2013 09:50:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",26/07/2013 16:49:00,"Obs=Pedido 56347 cancelado
+Estoque=71
+DataProdAlteracao=26/07/2013 16:46:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",02/08/2013 09:47:00,"Obs=Pedido 56397 cancelado
+Estoque=71
+DataProdAlteracao=26/07/2013 16:49:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",02/08/2013 09:50:00,"Obs=Pedido 56701 cancelado
+Estoque=72
+DataProdAlteracao=02/08/2013 09:47:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"jessica",08/08/2013 07:50:00,"Obs=
+Estoque=74
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"renata",08/08/2013 09:32:00,"Obs=
+OrdemProd=0
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",23/08/2013 13:53:00,"Obs=Pedido 59015 cancelado
+Estoque=10
+DataProdAlteracao=08/08/2013 09:32:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",23/08/2013 13:56:00,"Obs=Pedido 59018 cancelado
+Estoque=10
+DataProdAlteracao=23/08/2013 13:53:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",24/08/2013 08:49:00,"Obs=Pedido 58196 cancelado
+Estoque=15
+DataProdAlteracao=23/08/2013 13:56:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",24/08/2013 08:54:00,"Obs=Pedido 58434 cancelado
+Estoque=16
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",24/08/2013 08:55:00,"Obs=Pedido 58492 cancelado
+Estoque=66
+DataProdAlteracao=24/08/2013 08:54:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",24/08/2013 08:56:00,"Obs=Pedido 58120 cancelado
+Estoque=67
+DataProdAlteracao=24/08/2013 08:55:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",24/08/2013 08:57:00,"Obs=Pedido 58254 cancelado
+Estoque=68
+DataProdAlteracao=24/08/2013 08:56:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",24/08/2013 08:57:00,"Obs=Pedido 58247 cancelado
+Estoque=69
+DataProdAlteracao=24/08/2013 08:57:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"alexia",29/08/2013 11:14:00,"Obs=Estragado
+Estoque=67
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",30/08/2013 10:40:00,"Obs=Pedido 58707 cancelado
+Estoque=66
+DataProdAlteracao=29/08/2013 11:14:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",30/08/2013 10:41:00,"Obs=Pedido 58769 cancelado
+Estoque=67
+DataProdAlteracao=30/08/2013 10:40:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",30/08/2013 10:53:00,"Obs=Pedido 58798 cancelado
+Estoque=68
+DataProdAlteracao=30/08/2013 10:41:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",30/08/2013 10:53:00,"Obs=Pedido 58789 cancelado
+Estoque=69
+DataProdAlteracao=30/08/2013 10:53:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",30/08/2013 10:53:00,"Obs=Pedido 58784 cancelado
+Estoque=70
+DataProdAlteracao=30/08/2013 10:53:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",30/08/2013 10:53:00,"Obs=Pedido 58774 cancelado
+Estoque=71
+DataProdAlteracao=30/08/2013 10:53:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",30/08/2013 10:54:00,"Obs=Pedido 58858 cancelado
+Estoque=72
+DataProdAlteracao=30/08/2013 10:53:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",30/08/2013 10:55:00,"Obs=Pedido 58935 cancelado
+Estoque=82
+DataProdAlteracao=30/08/2013 10:54:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",30/08/2013 10:55:00,"Obs=Pedido 58930 cancelado
+Estoque=84
+DataProdAlteracao=30/08/2013 10:55:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",30/08/2013 13:57:00,"Obs=Pedido 59536 cancelado
+Estoque=84
+DataProdAlteracao=30/08/2013 10:55:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"camila",03/09/2013 13:09:00,"Obs=Pedido 59919 cancelado
+Estoque=79
+DataProdAlteracao=30/08/2013 13:57:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",04/09/2013 12:21:00,"Obs=Pedido 59926 cancelado
+Estoque=78
+DataProdAlteracao=03/09/2013 13:09:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"camila",05/09/2013 10:46:00,"Obs=Pedido 60156 cancelado
+Estoque=72
+DataProdAlteracao=04/09/2013 12:21:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",05/09/2013 16:42:00,"Obs=Pedido 60188 cancelado
+Estoque=76
+DataProdAlteracao=05/09/2013 10:46:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",06/09/2013 11:31:00,"Obs=Pedido 59595 cancelado
+Estoque=76
+DataProdAlteracao=05/09/2013 16:42:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",06/09/2013 11:40:00,"Obs=Pedido 60023 cancelado
+Estoque=77
+DataProdAlteracao=06/09/2013 11:31:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",13/09/2013 11:00:00,"Obs=Pedido 59749 cancelado
+Estoque=71
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",13/09/2013 11:09:00,"Obs=Pedido 60053 cancelado
+Estoque=72
+DataProdAlteracao=13/09/2013 11:00:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",19/09/2013 12:11:00,"Obs=Pedido 60750 cancelado
+Estoque=65
+DataProdAlteracao=13/09/2013 11:09:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",19/09/2013 12:11:00,"Obs=Pedido 60732 cancelado
+Estoque=68
+DataProdAlteracao=19/09/2013 12:11:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",19/09/2013 12:12:00,"Obs=Pedido 60856 cancelado
+Estoque=70
+DataProdAlteracao=19/09/2013 12:11:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"camila",23/09/2013 09:34:00,"Obs=Pedido 61398 cancelado
+Estoque=69
+DataProdAlteracao=19/09/2013 12:12:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",27/09/2013 14:32:00,"Obs=Pedido 61073 cancelado
+Estoque=66
+DataProdAlteracao=23/09/2013 09:34:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",27/09/2013 14:34:00,"Obs=Pedido 61235 cancelado
+Estoque=67
+DataProdAlteracao=27/09/2013 14:32:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",30/09/2013 14:55:00,"Obs=Pedido 62564 cancelado
+Estoque=59
+DataProdAlteracao=27/09/2013 14:34:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",04/10/2013 09:52:00,"Obs=Pedido 61743 cancelado
+Estoque=43
+DataProdAlteracao=30/09/2013 14:55:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",04/10/2013 09:53:00,"Obs=Pedido 61912 cancelado
+Estoque=44
+DataProdAlteracao=04/10/2013 09:52:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",10/10/2013 13:41:00,"Obs=Pedido 63362 cancelado
+Estoque=36
+DataProdAlteracao=04/10/2013 09:53:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",11/10/2013 09:49:00,"Obs=Pedido 62474 cancelado
+Estoque=33
+DataProdAlteracao=10/10/2013 13:41:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",11/10/2013 09:52:00,"Obs=Pedido 62616 cancelado
+Estoque=35
+DataProdAlteracao=11/10/2013 09:49:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",11/10/2013 09:57:00,"Obs=Pedido 62429 cancelado
+Estoque=36
+DataProdAlteracao=11/10/2013 09:52:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",11/10/2013 09:58:00,"Obs=Pedido 62472 cancelado
+Estoque=37
+DataProdAlteracao=11/10/2013 09:57:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",11/10/2013 10:00:00,"Obs=Pedido 62534 cancelado
+Estoque=39
+DataProdAlteracao=11/10/2013 09:58:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",11/10/2013 10:00:00,"Obs=Pedido 62688 cancelado
+Estoque=40
+DataProdAlteracao=11/10/2013 10:00:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",11/10/2013 10:00:00,"Obs=Pedido 62675 cancelado
+Estoque=41
+DataProdAlteracao=11/10/2013 10:00:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",11/10/2013 10:00:00,"Obs=Pedido 62659 cancelado
+Estoque=42
+DataProdAlteracao=11/10/2013 10:00:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",11/10/2013 10:02:00,"Obs=Pedido 62712 cancelado
+Estoque=48
+DataProdAlteracao=11/10/2013 10:00:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",11/10/2013 10:03:00,"Obs=Pedido 62777 cancelado
+Estoque=49
+DataProdAlteracao=11/10/2013 10:02:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",18/10/2013 13:55:00,"Obs=Pedido 63941 cancelado
+Estoque=40
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",18/10/2013 14:03:00,"Obs=Pedido 63130 cancelado
+Estoque=42
+DataProdAlteracao=18/10/2013 13:55:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",18/10/2013 14:04:00,"Obs=Pedido 63182 cancelado
+Estoque=43
+DataProdAlteracao=18/10/2013 14:03:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",18/10/2013 14:05:00,"Obs=Pedido 63456 cancelado
+Estoque=44
+DataProdAlteracao=18/10/2013 14:04:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",18/10/2013 14:05:00,"Obs=Pedido 63424 cancelado
+Estoque=45
+DataProdAlteracao=18/10/2013 14:05:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",18/10/2013 14:08:00,"Obs=Pedido 63444 cancelado
+Estoque=46
+DataProdAlteracao=18/10/2013 14:05:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",25/10/2013 07:51:00,"Obs=Pedido 63538 cancelado
+Estoque=43
+DataProdAlteracao=18/10/2013 14:08:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",25/10/2013 07:53:00,"Obs=Pedido 63678 cancelado
+Estoque=44
+DataProdAlteracao=25/10/2013 07:51:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",25/10/2013 07:54:00,"Obs=Pedido 63691 cancelado
+Estoque=45
+DataProdAlteracao=25/10/2013 07:53:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",25/10/2013 08:14:00,"Obs=Pedido 64042 cancelado
+Estoque=46
+DataProdAlteracao=25/10/2013 07:54:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",01/11/2013 09:49:00,"Obs=Pedido 64537 cancelado
+Estoque=41
+DataProdAlteracao=30/10/2013 16:12:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",01/11/2013 09:49:00,"Obs=Pedido 64508 cancelado
+Estoque=42
+DataProdAlteracao=01/11/2013 09:49:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"alexia",04/11/2013 10:36:00,"Obs=
+OrdemProd=0
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",08/11/2013 09:46:00,"Obs=Pedido 64947 cancelado
+Estoque=20
+DataProdAlteracao=04/11/2013 10:36:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"adriana",08/11/2013 09:48:00,"Obs=Pedido 65168 cancelado
+Estoque=21
+DataProdAlteracao=08/11/2013 09:46:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",14/11/2013 11:01:00,"Obs=Pedido 65476 cancelado
+Estoque=10
+DataProdAlteracao=08/11/2013 09:48:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",14/11/2013 11:02:00,"Obs=Pedido 65669 cancelado
+Estoque=11
+DataProdAlteracao=14/11/2013 11:01:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",14/11/2013 11:04:00,"Obs=Pedido 65343 cancelado
+Estoque=13
+DataProdAlteracao=14/11/2013 11:02:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",14/11/2013 11:07:00,"Obs=Pedido 65546 cancelado
+Estoque=14
+DataProdAlteracao=14/11/2013 11:04:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",14/11/2013 11:08:00,"Obs=Pedido 65693 cancelado
+Estoque=15
+DataProdAlteracao=14/11/2013 11:07:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",14/11/2013 11:09:00,"Obs=Pedido 65778 cancelado
+Estoque=16
+DataProdAlteracao=14/11/2013 11:08:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",14/11/2013 11:09:00,"Obs=Pedido 65769 cancelado
+Estoque=18
+DataProdAlteracao=14/11/2013 11:09:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",14/11/2013 11:09:00,"Obs=Pedido 65748 cancelado
+Estoque=19
+DataProdAlteracao=14/11/2013 11:09:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",14/11/2013 11:09:00,"Obs=Pedido 65729 cancelado
+Estoque=21
+DataProdAlteracao=14/11/2013 11:09:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",14/11/2013 11:10:00,"Obs=Pedido 65835 cancelado
+Estoque=22
+DataProdAlteracao=14/11/2013 11:09:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",14/11/2013 11:10:00,"Obs=Pedido 65833 cancelado
+Estoque=23
+DataProdAlteracao=14/11/2013 11:10:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",22/11/2013 10:01:00,"Obs=Pedido 66081 cancelado
+Estoque=0
+DataProdAlteracao=22/11/2013 07:12:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",22/11/2013 10:04:00,"Obs=Pedido 66497 cancelado
+Estoque=1
+DataProdAlteracao=22/11/2013 10:01:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",22/11/2013 10:06:00,"Obs=Pedido 66082 cancelado
+Estoque=2
+DataProdAlteracao=22/11/2013 10:04:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",22/11/2013 10:06:00,"Obs=Pedido 66056 cancelado
+Estoque=3
+DataProdAlteracao=22/11/2013 10:06:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",22/11/2013 10:08:00,"Obs=Pedido 66296 cancelado
+Estoque=4
+DataProdAlteracao=22/11/2013 10:06:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",22/11/2013 10:10:00,"Obs=Pedido 66550 cancelado
+Estoque=5
+DataProdAlteracao=22/11/2013 10:08:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",22/11/2013 10:11:00,"Obs=Pedido 66594 cancelado
+Estoque=8
+DataProdAlteracao=22/11/2013 10:10:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"alexia",22/11/2013 11:27:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",29/11/2013 10:46:00,"Obs=Pedido 66625 cancelado
+Estoque=0
+DataProdAlteracao=26/11/2013 10:42:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",29/11/2013 10:47:00,"Obs=Pedido 66929 cancelado
+Estoque=1
+DataProdAlteracao=29/11/2013 10:46:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",29/11/2013 10:47:00,"Obs=Pedido 66923 cancelado
+Estoque=2
+DataProdAlteracao=29/11/2013 10:47:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",29/11/2013 10:47:00,"Obs=Pedido 66906 cancelado
+Estoque=3
+DataProdAlteracao=29/11/2013 10:47:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",29/11/2013 10:48:00,"Obs=Pedido 67156 cancelado
+Estoque=4
+DataProdAlteracao=29/11/2013 10:47:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",29/11/2013 10:49:00,"Obs=Pedido 66714 cancelado
+Estoque=5
+DataProdAlteracao=29/11/2013 10:48:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",29/11/2013 10:49:00,"Obs=Pedido 66673 cancelado
+Estoque=6
+DataProdAlteracao=29/11/2013 10:49:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",29/11/2013 10:49:00,"Obs=Pedido 66645 cancelado
+Estoque=8
+DataProdAlteracao=29/11/2013 10:49:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",29/11/2013 10:51:00,"Obs=Pedido 66907 cancelado
+Estoque=9
+DataProdAlteracao=29/11/2013 10:49:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",29/11/2013 10:52:00,"Obs=Pedido 67004 cancelado
+Estoque=10
+DataProdAlteracao=29/11/2013 10:51:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",29/11/2013 10:52:00,"Obs=Pedido 67046 cancelado
+Estoque=11
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",29/11/2013 10:53:00,"Obs=Pedido 67112 cancelado
+Estoque=12
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",29/11/2013 11:32:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",06/12/2013 09:26:00,"Obs=Pedido 67274 cancelado
+Estoque=2
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",06/12/2013 09:27:00,"Obs=Pedido 67417 cancelado
+Estoque=3
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",06/12/2013 09:32:00,"Obs=Pedido 67277 cancelado
+Estoque=4
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",06/12/2013 09:36:00,"Obs=Pedido 67671 cancelado
+Estoque=5
+DataProdAlteracao=06/12/2013 09:32:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"jessica",12/12/2013 15:02:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"jessica",12/12/2013 16:50:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",13/12/2013 10:41:00,"Obs=Pedido 67974 cancelado
+Estoque=0
+DataProdAlteracao=13/12/2013 07:09:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",13/12/2013 10:42:00,"Obs=Pedido 68111 cancelado
+Estoque=1
+DataProdAlteracao=13/12/2013 10:41:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",13/12/2013 10:44:00,"Obs=Pedido 68189 cancelado
+Estoque=2
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",13/12/2013 10:45:00,"Obs=Pedido 68245 cancelado
+Estoque=4
+DataProdAlteracao=13/12/2013 10:44:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"jessica",13/12/2013 11:44:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",27/12/2013 13:49:00,"Obs=Pedido 68873 cancelado
+Estoque=0
+DataProdAlteracao=16/12/2013 07:07:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"elisa",27/12/2013 13:52:00,"Obs=Pedido 68875 cancelado
+Estoque=2
+DataProdAlteracao=27/12/2013 13:49:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"alexia",27/12/2013 14:39:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",10/01/2014 10:42:00,"Obs=Pedido 69568 cancelado
+Estoque=0
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",10/01/2014 10:45:00,"Obs=Pedido 69718 cancelado
+Estoque=2
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"alexia",10/01/2014 12:27:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",24/01/2014 09:10:00,"Obs=Pedido 70346 cancelado
+Estoque=0
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"alexia",24/01/2014 14:20:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",07/02/2014 09:43:00,"Obs=Pedido 71027 cancelado
+Estoque=0
+DataProdAlteracao=28/01/2014 07:10:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",07/02/2014 11:13:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"ines",14/02/2014 09:44:00,"Obs=Pedido 71574 cancelado
+Estoque=0
+DataProdAlteracao=08/02/2014 07:25:00
+"
+"Anéis Biju Fina","2270004050428","Anel Biju Fina",3847754,"rose",14/02/2014 14:05:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"juliana",13/03/2013 15:37:00,"Obs=F: City Bijoux
+Q: 12
+Luciana contou, Aleksia colocou código e Juliana cadastrou.
+Foto: Renata
+Novo"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",14/03/2013 12:50:00,"Obs=Pedido 43116 cancelado
+Estoque=7
+DataProdAlteracao=13/03/2013 15:37:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",21/03/2013 13:38:00,"Obs=Pedido 43057 cancelado
+Estoque=0
+DataProdAlteracao=16/03/2013 08:34:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",21/03/2013 13:40:00,"Obs=Pedido 43268 cancelado
+Estoque=1
+DataProdAlteracao=21/03/2013 13:38:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"jenifer",21/03/2013 13:40:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",21/03/2013 13:44:00,"Obs=Pedido 43161 cancelado
+Estoque=2
+DataProdAlteracao=21/03/2013 13:40:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",21/03/2013 13:45:00,"Obs=Pedido 43263 cancelado
+Estoque=3
+DataProdAlteracao=21/03/2013 13:44:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",28/03/2013 09:34:00,"Obs=Pedido 43809 cancelado
+Estoque=0
+DataProdAlteracao=22/03/2013 07:29:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",28/03/2013 09:41:00,"Obs=Pedido 43793 cancelado
+Estoque=1
+DataProdAlteracao=28/03/2013 09:34:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"juliana",28/03/2013 13:31:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",05/04/2013 15:17:00,"Obs=Pedido 44522 cancelado
+Estoque=0
+DataProdAlteracao=30/03/2013 12:33:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"juliana",06/04/2013 11:02:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"jenifer",30/04/2013 13:37:00,"Obs=QAn: 0
+QAc: 17
+Dona Marlise contou, colocou código e JEnifer alterou.
+Estoque=0
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",02/05/2013 09:20:00,"Obs=Pedido 48288 cancelado
+Estoque=8
+DataProdAlteracao=30/04/2013 13:37:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",10/05/2013 10:26:00,"Obs=Pedido 48356 cancelado
+Estoque=0
+DataProdAlteracao=06/05/2013 07:02:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",10/05/2013 10:26:00,"Obs=Pedido 48352 cancelado
+Estoque=1
+DataProdAlteracao=10/05/2013 10:26:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",10/05/2013 10:27:00,"Obs=Pedido 48417 cancelado
+Estoque=2
+DataProdAlteracao=10/05/2013 10:26:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",10/05/2013 10:28:00,"Obs=Pedido 48570 cancelado
+Estoque=4
+DataProdAlteracao=10/05/2013 10:27:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"juliana",11/05/2013 11:46:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",17/05/2013 11:25:00,"Obs=Pedido 48676 cancelado
+Estoque=0
+DataProdAlteracao=16/05/2013 17:19:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",17/05/2013 11:25:00,"Obs=Pedido 48622 cancelado
+Estoque=1
+DataProdAlteracao=17/05/2013 11:25:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"juliana",18/05/2013 11:34:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"jenifer",23/05/2013 16:13:00,"Obs=QAn: 0
+QAc: 86
+Dona Marlise contou, colocou código e Jenifer alterou.
+Estoque=0
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",24/05/2013 09:25:00,"Obs=Pedido 50047 cancelado
+Estoque=84
+DataProdAlteracao=23/05/2013 16:13:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",31/05/2013 14:48:00,"Obs=Pedido 50966 cancelado
+Estoque=84
+DataProdAlteracao=24/05/2013 09:25:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",31/05/2013 14:48:00,"Obs=Pedido 50943 cancelado
+Estoque=85
+DataProdAlteracao=31/05/2013 14:48:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",13/06/2013 16:33:00,"Obs=Pedido 52861 cancelado
+Estoque=74
+DataProdAlteracao=31/05/2013 14:48:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",14/06/2013 15:12:00,"Obs=Pedido 51891 cancelado
+Estoque=73
+DataProdAlteracao=13/06/2013 16:33:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",21/06/2013 16:47:00,"Obs=Pedido 52521 cancelado
+Estoque=68
+DataProdAlteracao=14/06/2013 15:12:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",21/06/2013 16:47:00,"Obs=Pedido 52515 cancelado
+Estoque=69
+DataProdAlteracao=21/06/2013 16:47:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",28/06/2013 12:34:00,"Obs=Pedido 53215 cancelado
+Estoque=61
+DataProdAlteracao=21/06/2013 16:47:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",28/06/2013 12:39:00,"Obs=Pedido 53394 cancelado
+Estoque=62
+DataProdAlteracao=28/06/2013 12:34:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",05/07/2013 13:50:00,"Obs=Pedido 54059 cancelado
+Estoque=54
+DataProdAlteracao=28/06/2013 12:39:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",05/07/2013 13:52:00,"Obs=Pedido 54157 cancelado
+Estoque=56
+DataProdAlteracao=05/07/2013 13:50:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",06/07/2013 07:47:00,"Obs=Pedido 54417 cancelado
+Estoque=52
+DataProdAlteracao=05/07/2013 13:52:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",12/07/2013 11:56:00,"Obs=Pedido 54594 cancelado
+Estoque=38
+DataProdAlteracao=06/07/2013 07:47:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",12/07/2013 11:58:00,"Obs=Pedido 54960 cancelado
+Estoque=39
+DataProdAlteracao=12/07/2013 11:56:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",12/07/2013 11:58:00,"Obs=Pedido 55084 cancelado
+Estoque=40
+DataProdAlteracao=12/07/2013 11:58:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",12/07/2013 11:58:00,"Obs=Pedido 55081 cancelado
+Estoque=41
+DataProdAlteracao=12/07/2013 11:58:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",12/07/2013 12:02:00,"Obs=Pedido 55020 cancelado
+Estoque=42
+DataProdAlteracao=12/07/2013 11:58:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",19/07/2013 09:44:00,"Obs=Pedido 55539 cancelado
+Estoque=32
+DataProdAlteracao=12/07/2013 12:02:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",19/07/2013 09:45:00,"Obs=Pedido 55740 cancelado
+Estoque=33
+DataProdAlteracao=19/07/2013 09:44:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",19/07/2013 09:45:00,"Obs=Pedido 55642 cancelado
+Estoque=36
+DataProdAlteracao=19/07/2013 09:45:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",19/07/2013 09:47:00,"Obs=Pedido 55811 cancelado
+Estoque=37
+DataProdAlteracao=19/07/2013 09:45:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",19/07/2013 09:48:00,"Obs=Pedido 55445 cancelado
+Estoque=38
+DataProdAlteracao=19/07/2013 09:47:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",19/07/2013 09:48:00,"Obs=Pedido 55406 cancelado
+Estoque=39
+DataProdAlteracao=19/07/2013 09:48:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",19/07/2013 09:49:00,"Obs=Pedido 55638 cancelado
+Estoque=40
+DataProdAlteracao=19/07/2013 09:48:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",19/07/2013 09:50:00,"Obs=Pedido 55693 cancelado
+Estoque=41
+DataProdAlteracao=19/07/2013 09:49:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"jenifer",26/07/2013 08:29:00,"Obs=QAn:26
+QAc:6
+rose contou e colocou codigo, aleksia alterou
+Estoque=26
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",26/07/2013 16:48:00,"Obs=Pedido 56276 cancelado
+Estoque=32
+DataProdAlteracao=26/07/2013 08:29:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",26/07/2013 16:48:00,"Obs=Pedido 56252 cancelado
+Estoque=33
+DataProdAlteracao=26/07/2013 16:48:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",26/07/2013 16:49:00,"Obs=Pedido 56347 cancelado
+Estoque=34
+DataProdAlteracao=26/07/2013 16:48:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",26/07/2013 16:50:00,"Obs=Pedido 55951 cancelado
+Estoque=35
+DataProdAlteracao=26/07/2013 16:49:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",26/07/2013 16:50:00,"Obs=Pedido 55938 cancelado
+Estoque=36
+DataProdAlteracao=26/07/2013 16:50:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",26/07/2013 16:51:00,"Obs=Pedido 56253 cancelado
+Estoque=37
+DataProdAlteracao=26/07/2013 16:50:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",26/07/2013 16:51:00,"Obs=Pedido 56138 cancelado
+Estoque=38
+DataProdAlteracao=26/07/2013 16:51:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"juliana",27/07/2013 11:43:00,"Obs=
+OrdemProd=0
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",02/08/2013 09:47:00,"Obs=Pedido 56397 cancelado
+Estoque=34
+DataProdAlteracao=27/07/2013 11:43:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",02/08/2013 09:48:00,"Obs=Pedido 56544 cancelado
+Estoque=35
+DataProdAlteracao=02/08/2013 09:47:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",02/08/2013 09:49:00,"Obs=Pedido 56590 cancelado
+Estoque=36
+DataProdAlteracao=02/08/2013 09:48:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",02/08/2013 09:49:00,"Obs=Pedido 56586 cancelado
+Estoque=37
+DataProdAlteracao=02/08/2013 09:49:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",09/08/2013 14:20:00,"Obs=Pedido 57300 cancelado
+Estoque=34
+DataProdAlteracao=02/08/2013 09:49:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",09/08/2013 14:23:00,"Obs=Pedido 57422 cancelado
+Estoque=35
+DataProdAlteracao=09/08/2013 14:20:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",09/08/2013 14:25:00,"Obs=Pedido 57175 cancelado
+Estoque=36
+DataProdAlteracao=09/08/2013 14:23:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",16/08/2013 13:13:00,"Obs=Pedido 57736 cancelado
+Estoque=34
+DataProdAlteracao=09/08/2013 14:25:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"alexia",20/08/2013 10:05:00,"Obs=QAn:28
+QAc:21
+Marlise contou e colocou códigos
+Estoque=28
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",24/08/2013 08:54:00,"Obs=Pedido 58460 cancelado
+Estoque=46
+DataProdAlteracao=20/08/2013 10:05:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",24/08/2013 08:54:00,"Obs=Pedido 58551 cancelado
+Estoque=47
+DataProdAlteracao=24/08/2013 08:54:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",30/08/2013 10:40:00,"Obs=Pedido 58707 cancelado
+Estoque=46
+DataProdAlteracao=24/08/2013 08:54:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",30/08/2013 10:41:00,"Obs=Pedido 58881 cancelado
+Estoque=47
+DataProdAlteracao=30/08/2013 10:40:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",30/08/2013 10:44:00,"Obs=Pedido 58501 cancelado
+Estoque=48
+DataProdAlteracao=30/08/2013 10:41:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",30/08/2013 10:52:00,"Obs=Pedido 58601 cancelado
+Estoque=49
+DataProdAlteracao=30/08/2013 10:44:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",30/08/2013 10:54:00,"Obs=Pedido 58882 cancelado
+Estoque=50
+DataProdAlteracao=30/08/2013 10:52:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",30/08/2013 13:57:00,"Obs=Pedido 59536 cancelado
+Estoque=50
+DataProdAlteracao=30/08/2013 10:54:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",06/09/2013 11:31:00,"Obs=Pedido 59595 cancelado
+Estoque=48
+DataProdAlteracao=30/08/2013 13:57:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",19/09/2013 12:12:00,"Obs=Pedido 60856 cancelado
+Estoque=38
+DataProdAlteracao=06/09/2013 11:31:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",19/09/2013 16:34:00,"Obs=Pedido 61538 cancelado
+Estoque=38
+DataProdAlteracao=19/09/2013 12:12:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",04/10/2013 09:55:00,"Obs=Pedido 62158 cancelado
+Estoque=0
+DataProdAlteracao=01/10/2013 07:24:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",04/10/2013 09:55:00,"Obs=Pedido 62155 cancelado
+Estoque=1
+DataProdAlteracao=04/10/2013 09:55:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",04/10/2013 09:56:00,"Obs=Pedido 62113 cancelado
+Estoque=2
+DataProdAlteracao=04/10/2013 09:55:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",04/10/2013 10:01:00,"Obs=Pedido 62185 cancelado
+Estoque=3
+DataProdAlteracao=04/10/2013 09:56:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",04/10/2013 10:01:00,"Obs=Pedido 62145 cancelado
+Estoque=4
+DataProdAlteracao=04/10/2013 10:01:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",04/10/2013 10:02:00,"Obs=Pedido 62225 cancelado
+Estoque=5
+DataProdAlteracao=04/10/2013 10:01:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"alexia",04/10/2013 11:10:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",11/10/2013 09:57:00,"Obs=Pedido 62428 cancelado
+Estoque=0
+DataProdAlteracao=09/10/2013 06:55:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",11/10/2013 09:58:00,"Obs=Pedido 62481 cancelado
+Estoque=20
+DataProdAlteracao=11/10/2013 09:57:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",11/10/2013 09:58:00,"Obs=Pedido 62456 cancelado
+Estoque=21
+DataProdAlteracao=11/10/2013 09:58:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",11/10/2013 09:59:00,"Obs=Pedido 62574 cancelado
+Estoque=22
+DataProdAlteracao=11/10/2013 09:58:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"alexia",11/10/2013 10:23:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",17/10/2013 08:08:00,"Obs=Pedido 63835 cancelado
+Estoque=7
+DataProdAlteracao=11/10/2013 10:23:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",17/10/2013 08:08:00,"Obs=Pedido 63838 cancelado
+Estoque=8
+DataProdAlteracao=17/10/2013 08:08:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",18/10/2013 13:55:00,"Obs=Pedido 63941 cancelado
+Estoque=6
+DataProdAlteracao=17/10/2013 08:08:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",18/10/2013 14:03:00,"Obs=Pedido 63102 cancelado
+Estoque=7
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",18/10/2013 14:04:00,"Obs=Pedido 63241 cancelado
+Estoque=8
+DataProdAlteracao=18/10/2013 14:03:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",18/10/2013 14:04:00,"Obs=Pedido 63182 cancelado
+Estoque=9
+DataProdAlteracao=18/10/2013 14:04:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",18/10/2013 14:05:00,"Obs=Pedido 63456 cancelado
+Estoque=10
+DataProdAlteracao=18/10/2013 14:04:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",22/10/2013 08:48:00,"Obs=Pedido 63945 cancelado
+Estoque=7
+DataProdAlteracao=18/10/2013 14:05:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",22/10/2013 15:08:00,"Obs=Pedido 64378 cancelado
+Estoque=7
+DataProdAlteracao=22/10/2013 08:48:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",25/10/2013 07:53:00,"Obs=Pedido 63678 cancelado
+Estoque=0
+DataProdAlteracao=25/10/2013 07:04:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",25/10/2013 07:54:00,"Obs=Pedido 63691 cancelado
+Estoque=1
+DataProdAlteracao=25/10/2013 07:53:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",25/10/2013 07:58:00,"Obs=Pedido 63750 cancelado
+Estoque=2
+DataProdAlteracao=25/10/2013 07:54:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",25/10/2013 08:10:00,"Obs=Pedido 63998 cancelado
+Estoque=5
+DataProdAlteracao=25/10/2013 07:58:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",25/10/2013 08:15:00,"Obs=Pedido 64002 cancelado
+Estoque=6
+DataProdAlteracao=25/10/2013 08:10:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"jessica",25/10/2013 08:54:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"jessica",30/10/2013 16:05:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",01/11/2013 09:50:00,"Obs=Pedido 64589 cancelado
+Estoque=0
+DataProdAlteracao=30/10/2013 16:12:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",01/11/2013 09:50:00,"Obs=Pedido 64570 cancelado
+Estoque=1
+DataProdAlteracao=01/11/2013 09:50:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",01/11/2013 09:50:00,"Obs=Pedido 64651 cancelado
+Estoque=2
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",01/11/2013 09:50:00,"Obs=Pedido 64646 cancelado
+Estoque=4
+DataProdAlteracao=01/11/2013 09:50:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"jessica",01/11/2013 11:27:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"alexia",04/11/2013 14:05:00,"Obs=
+OrdemProd=0
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"adriana",08/11/2013 09:46:00,"Obs=Pedido 64947 cancelado
+Estoque=0
+DataProdAlteracao=04/11/2013 14:05:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"juliana",08/11/2013 15:53:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"alexia",11/11/2013 09:27:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",14/11/2013 11:03:00,"Obs=Pedido 65318 cancelado
+Estoque=0
+DataProdAlteracao=11/11/2013 10:49:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",14/11/2013 11:03:00,"Obs=Pedido 65314 cancelado
+Estoque=1
+DataProdAlteracao=14/11/2013 11:03:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",14/11/2013 11:04:00,"Obs=Pedido 65326 cancelado
+Estoque=2
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"alexia",14/11/2013 14:48:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",22/11/2013 10:06:00,"Obs=Pedido 66056 cancelado
+Estoque=0
+DataProdAlteracao=16/11/2013 07:16:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",22/11/2013 10:10:00,"Obs=Pedido 66550 cancelado
+Estoque=1
+DataProdAlteracao=22/11/2013 10:06:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"alexia",22/11/2013 14:29:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"elisa",06/12/2013 09:26:00,"Obs=Pedido 67274 cancelado
+Estoque=0
+DataProdAlteracao=25/11/2013 07:04:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"alexia",06/12/2013 11:54:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"alexia",28/12/2013 08:27:00,"Obs=
+Estoque=0
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",10/01/2014 10:42:00,"Obs=Pedido 69568 cancelado
+Estoque=8
+DataProdAlteracao=28/12/2013 08:27:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",10/01/2014 10:45:00,"Obs=Pedido 69718 cancelado
+Estoque=11
+DataProdAlteracao=10/01/2014 10:42:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",10/01/2014 10:50:00,"Obs=Pedido 69714 cancelado
+Estoque=14
+DataProdAlteracao=10/01/2014 10:45:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",17/01/2014 12:36:00,"Obs=Pedido 69935 cancelado
+Estoque=3
+DataProdAlteracao=10/01/2014 10:50:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",17/01/2014 12:37:00,"Obs=Pedido 69987 cancelado
+Estoque=4
+DataProdAlteracao=17/01/2014 12:36:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"jessica",20/01/2014 10:35:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",24/01/2014 08:59:00,"Obs=Pedido 70193 cancelado
+Estoque=0
+DataProdAlteracao=20/01/2014 12:28:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",24/01/2014 09:11:00,"Obs=Pedido 70458 cancelado
+Estoque=1
+DataProdAlteracao=24/01/2014 08:59:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",24/01/2014 09:11:00,"Obs=Pedido 70453 cancelado
+Estoque=2
+DataProdAlteracao=24/01/2014 09:11:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",24/01/2014 09:11:00,"Obs=Pedido 70450 cancelado
+Estoque=4
+DataProdAlteracao=24/01/2014 09:11:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"alexia",24/01/2014 10:12:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",07/02/2014 09:43:00,"Obs=Pedido 70937 cancelado
+Estoque=0
+DataProdAlteracao=30/01/2014 07:08:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",07/02/2014 09:47:00,"Obs=Pedido 71080 cancelado
+Estoque=1
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",07/02/2014 09:47:00,"Obs=Pedido 71078 cancelado
+Estoque=2
+DataProdAlteracao=07/02/2014 09:47:00
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"jessica",07/02/2014 10:26:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"ines",14/02/2014 09:40:00,"Obs=Pedido 71593 cancelado
+Estoque=0
+"
+"Anéis Biju Fina","2270004050424","Anel Biju Fina",3847837,"rose",14/02/2014 14:05:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"juliana",19/06/2013 09:05:00,"Obs=F: City Bij.
+Q: 206
+Marlise contou, colocou código e Juliana cadastrou.
+Foto: Daiane
+Novo"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",24/06/2013 07:33:00,"Obs=Pedido 53816 cancelado
+Estoque=187
+DataProdAlteracao=19/06/2013 09:06:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",28/06/2013 08:43:00,"Obs=Pedido 54418 cancelado
+Estoque=174
+DataProdAlteracao=24/06/2013 07:33:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",28/06/2013 12:37:00,"Obs=Pedido 53663 cancelado
+Estoque=175
+DataProdAlteracao=28/06/2013 08:43:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",28/06/2013 12:37:00,"Obs=Pedido 53631 cancelado
+Estoque=177
+DataProdAlteracao=28/06/2013 12:37:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",28/06/2013 12:38:00,"Obs=Pedido 53744 cancelado
+Estoque=178
+DataProdAlteracao=28/06/2013 12:37:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",28/06/2013 12:38:00,"Obs=Pedido 53710 cancelado
+Estoque=179
+DataProdAlteracao=28/06/2013 12:38:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",28/06/2013 12:42:00,"Obs=Pedido 53822 cancelado
+Estoque=180
+DataProdAlteracao=28/06/2013 12:38:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",28/06/2013 12:42:00,"Obs=Pedido 53789 cancelado
+Estoque=181
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",01/07/2013 08:27:00,"Obs=Pedido 54530 cancelado
+Estoque=178
+DataProdAlteracao=28/06/2013 12:42:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",03/07/2013 13:42:00,"Obs=Pedido 54414 cancelado
+Estoque=171
+DataProdAlteracao=01/07/2013 08:27:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",05/07/2013 13:53:00,"Obs=Pedido 54367 cancelado
+Estoque=164
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",05/07/2013 13:53:00,"Obs=Pedido 54353 cancelado
+Estoque=165
+DataProdAlteracao=05/07/2013 13:53:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",12/07/2013 11:58:00,"Obs=Pedido 54960 cancelado
+Estoque=152
+DataProdAlteracao=05/07/2013 13:53:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",12/07/2013 11:59:00,"Obs=Pedido 54670 cancelado
+Estoque=153
+DataProdAlteracao=12/07/2013 11:58:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",12/07/2013 12:01:00,"Obs=Pedido 54866 cancelado
+Estoque=154
+DataProdAlteracao=12/07/2013 11:59:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",12/07/2013 12:01:00,"Obs=Pedido 54823 cancelado
+Estoque=156
+DataProdAlteracao=12/07/2013 12:01:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",12/07/2013 12:01:00,"Obs=Pedido 54958 cancelado
+Estoque=157
+DataProdAlteracao=12/07/2013 12:01:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",12/07/2013 12:02:00,"Obs=Pedido 54963 cancelado
+Estoque=158
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",12/07/2013 12:03:00,"Obs=Pedido 55103 cancelado
+Estoque=159
+DataProdAlteracao=12/07/2013 12:02:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",19/07/2013 09:44:00,"Obs=Pedido 55530 cancelado
+Estoque=150
+DataProdAlteracao=12/07/2013 12:03:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",19/07/2013 09:44:00,"Obs=Pedido 55620 cancelado
+Estoque=151
+DataProdAlteracao=19/07/2013 09:44:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",19/07/2013 09:45:00,"Obs=Pedido 55737 cancelado
+Estoque=152
+DataProdAlteracao=19/07/2013 09:44:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",19/07/2013 09:49:00,"Obs=Pedido 55638 cancelado
+Estoque=155
+DataProdAlteracao=19/07/2013 09:45:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",19/07/2013 09:49:00,"Obs=Pedido 55612 cancelado
+Estoque=156
+DataProdAlteracao=19/07/2013 09:49:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",26/07/2013 16:47:00,"Obs=Pedido 56054 cancelado
+Estoque=140
+DataProdAlteracao=19/07/2013 09:49:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",26/07/2013 16:47:00,"Obs=Pedido 56174 cancelado
+Estoque=141
+DataProdAlteracao=26/07/2013 16:47:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",26/07/2013 16:48:00,"Obs=Pedido 56252 cancelado
+Estoque=142
+DataProdAlteracao=26/07/2013 16:47:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",26/07/2013 16:49:00,"Obs=Pedido 55875 cancelado
+Estoque=143
+DataProdAlteracao=26/07/2013 16:48:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",26/07/2013 16:51:00,"Obs=Pedido 56138 cancelado
+Estoque=144
+DataProdAlteracao=26/07/2013 16:49:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",02/08/2013 09:47:00,"Obs=Pedido 56397 cancelado
+Estoque=141
+DataProdAlteracao=26/07/2013 16:51:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",02/08/2013 09:47:00,"Obs=Pedido 56428 cancelado
+Estoque=142
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",02/08/2013 09:48:00,"Obs=Pedido 56544 cancelado
+Estoque=143
+DataProdAlteracao=02/08/2013 09:47:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",02/08/2013 09:53:00,"Obs=Pedido 56522 cancelado
+Estoque=144
+DataProdAlteracao=02/08/2013 09:48:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",06/08/2013 08:14:00,"Obs=Pedido 57518 cancelado
+Estoque=141
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",09/08/2013 14:18:00,"Obs=Pedido 57186 cancelado
+Estoque=135
+DataProdAlteracao=06/08/2013 08:14:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",15/08/2013 17:11:00,"Obs=Pedido 58243 cancelado
+Estoque=128
+DataProdAlteracao=09/08/2013 14:18:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",15/08/2013 17:11:00,"Obs=Pedido 57894 cancelado
+Estoque=129
+DataProdAlteracao=15/08/2013 17:11:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",16/08/2013 13:11:00,"Obs=Pedido 57503 cancelado
+Estoque=128
+DataProdAlteracao=15/08/2013 17:11:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",16/08/2013 13:16:00,"Obs=Pedido 57506 cancelado
+Estoque=129
+DataProdAlteracao=16/08/2013 13:11:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",20/08/2013 17:05:00,"Obs=Pedido 58817 cancelado
+Estoque=116
+DataProdAlteracao=16/08/2013 13:16:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",20/08/2013 17:19:00,"Obs=Pedido 58823 cancelado
+Estoque=116
+DataProdAlteracao=20/08/2013 17:05:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",21/08/2013 09:50:00,"Obs=Pedido 58824 cancelado
+Estoque=113
+DataProdAlteracao=20/08/2013 17:19:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",24/08/2013 08:49:00,"Obs=Pedido 58196 cancelado
+Estoque=112
+DataProdAlteracao=21/08/2013 09:50:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",24/08/2013 08:51:00,"Obs=Pedido 58377 cancelado
+Estoque=113
+DataProdAlteracao=24/08/2013 08:49:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",24/08/2013 08:54:00,"Obs=Pedido 58551 cancelado
+Estoque=114
+DataProdAlteracao=24/08/2013 08:51:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",24/08/2013 08:55:00,"Obs=Pedido 58492 cancelado
+Estoque=115
+DataProdAlteracao=24/08/2013 08:54:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",24/08/2013 08:57:00,"Obs=Pedido 58233 cancelado
+Estoque=116
+DataProdAlteracao=24/08/2013 08:55:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",30/08/2013 10:41:00,"Obs=Pedido 58769 cancelado
+Estoque=109
+DataProdAlteracao=24/08/2013 08:57:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",30/08/2013 10:44:00,"Obs=Pedido 58501 cancelado
+Estoque=110
+DataProdAlteracao=30/08/2013 10:41:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",30/08/2013 10:54:00,"Obs=Pedido 58858 cancelado
+Estoque=113
+DataProdAlteracao=30/08/2013 10:44:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",30/08/2013 13:57:00,"Obs=Pedido 59536 cancelado
+Estoque=114
+DataProdAlteracao=30/08/2013 10:54:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",06/09/2013 11:31:00,"Obs=Pedido 59595 cancelado
+Estoque=107
+DataProdAlteracao=30/08/2013 13:57:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",13/09/2013 11:02:00,"Obs=Pedido 59893 cancelado
+Estoque=99
+DataProdAlteracao=06/09/2013 11:31:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",13/09/2013 11:04:00,"Obs=Pedido 60127 cancelado
+Estoque=101
+DataProdAlteracao=13/09/2013 11:02:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",17/09/2013 08:45:00,"Obs=Pedido 61097 cancelado
+Estoque=99
+DataProdAlteracao=13/09/2013 11:04:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",19/09/2013 12:12:00,"Obs=Pedido 60792 cancelado
+Estoque=90
+DataProdAlteracao=17/09/2013 08:45:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",19/09/2013 12:13:00,"Obs=Pedido 60375 cancelado
+Estoque=91
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",25/09/2013 08:25:00,"Obs=Pedido 61850 cancelado
+Estoque=82
+DataProdAlteracao=19/09/2013 12:13:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",27/09/2013 14:33:00,"Obs=Pedido 61162 cancelado
+Estoque=76
+DataProdAlteracao=25/09/2013 08:25:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",27/09/2013 14:37:00,"Obs=Pedido 61425 cancelado
+Estoque=77
+DataProdAlteracao=27/09/2013 14:33:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",27/09/2013 14:37:00,"Obs=Pedido 61421 cancelado
+Estoque=82
+DataProdAlteracao=27/09/2013 14:37:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",27/09/2013 14:38:00,"Obs=Pedido 61437 cancelado
+Estoque=83
+DataProdAlteracao=27/09/2013 14:37:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",27/09/2013 14:39:00,"Obs=Pedido 61642 cancelado
+Estoque=85
+DataProdAlteracao=27/09/2013 14:38:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",27/09/2013 14:47:00,"Obs=Pedido 61680 cancelado
+Estoque=86
+DataProdAlteracao=27/09/2013 14:39:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",04/10/2013 09:53:00,"Obs=Pedido 61923 cancelado
+Estoque=76
+DataProdAlteracao=27/09/2013 14:47:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",04/10/2013 09:54:00,"Obs=Pedido 62065 cancelado
+Estoque=78
+DataProdAlteracao=04/10/2013 09:53:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",04/10/2013 09:57:00,"Obs=Pedido 61762 cancelado
+Estoque=79
+DataProdAlteracao=04/10/2013 09:54:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",11/10/2013 09:53:00,"Obs=Pedido 62685 cancelado
+Estoque=72
+DataProdAlteracao=04/10/2013 09:57:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",11/10/2013 09:57:00,"Obs=Pedido 62451 cancelado
+Estoque=73
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",18/10/2013 13:55:00,"Obs=Pedido 63941 cancelado
+Estoque=73
+DataProdAlteracao=11/10/2013 09:57:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",18/10/2013 14:02:00,"Obs=Pedido 63093 cancelado
+Estoque=74
+DataProdAlteracao=18/10/2013 13:55:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",18/10/2013 14:04:00,"Obs=Pedido 63318 cancelado
+Estoque=75
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",18/10/2013 14:06:00,"Obs=Pedido 62976 cancelado
+Estoque=76
+DataProdAlteracao=18/10/2013 14:04:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",22/10/2013 15:08:00,"Obs=Pedido 64378 cancelado
+Estoque=74
+DataProdAlteracao=18/10/2013 14:06:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",25/10/2013 07:53:00,"Obs=Pedido 63596 cancelado
+Estoque=75
+DataProdAlteracao=22/10/2013 15:08:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",25/10/2013 08:11:00,"Obs=Pedido 64004 cancelado
+Estoque=76
+DataProdAlteracao=25/10/2013 07:53:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",01/11/2013 09:38:00,"Obs=Pedido 64232 cancelado
+Estoque=74
+DataProdAlteracao=30/10/2013 16:12:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",01/11/2013 09:39:00,"Obs=Pedido 64326 cancelado
+Estoque=75
+DataProdAlteracao=01/11/2013 09:38:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"alexia",04/11/2013 10:43:00,"Obs=
+OrdemProd=0
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"adriana",08/11/2013 09:48:00,"Obs=Pedido 65220 cancelado
+Estoque=55
+DataProdAlteracao=04/11/2013 10:43:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",14/11/2013 11:02:00,"Obs=Pedido 65673 cancelado
+Estoque=47
+DataProdAlteracao=08/11/2013 09:48:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",14/11/2013 11:02:00,"Obs=Pedido 65669 cancelado
+Estoque=48
+DataProdAlteracao=14/11/2013 11:02:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",14/11/2013 11:03:00,"Obs=Pedido 65765 cancelado
+Estoque=49
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",14/11/2013 11:05:00,"Obs=Pedido 65401 cancelado
+Estoque=50
+DataProdAlteracao=14/11/2013 11:03:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",14/11/2013 11:08:00,"Obs=Pedido 65599 cancelado
+Estoque=51
+DataProdAlteracao=14/11/2013 11:05:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",14/11/2013 11:08:00,"Obs=Pedido 65593 cancelado
+Estoque=53
+DataProdAlteracao=14/11/2013 11:08:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",14/11/2013 11:10:00,"Obs=Pedido 65835 cancelado
+Estoque=54
+DataProdAlteracao=14/11/2013 11:08:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",14/11/2013 11:10:00,"Obs=Pedido 65901 cancelado
+Estoque=55
+DataProdAlteracao=14/11/2013 11:10:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"alexia",18/11/2013 10:25:00,"Obs=Estragado
+Estoque=48
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"alexia",18/11/2013 10:25:00,"Obs=
+Estoque=47
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",22/11/2013 10:01:00,"Obs=Pedido 66081 cancelado
+Estoque=41
+DataProdAlteracao=18/11/2013 10:25:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",22/11/2013 10:04:00,"Obs=Pedido 66519 cancelado
+Estoque=42
+DataProdAlteracao=22/11/2013 10:01:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",22/11/2013 10:04:00,"Obs=Pedido 66483 cancelado
+Estoque=43
+DataProdAlteracao=22/11/2013 10:04:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",22/11/2013 10:06:00,"Obs=Pedido 66082 cancelado
+Estoque=44
+DataProdAlteracao=22/11/2013 10:04:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",22/11/2013 10:08:00,"Obs=Pedido 66346 cancelado
+Estoque=45
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",22/11/2013 10:09:00,"Obs=Pedido 66461 cancelado
+Estoque=46
+DataProdAlteracao=22/11/2013 10:08:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",22/11/2013 10:11:00,"Obs=Pedido 66605 cancelado
+Estoque=47
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",22/11/2013 10:11:00,"Obs=Pedido 66594 cancelado
+Estoque=49
+DataProdAlteracao=22/11/2013 10:11:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"camila",23/11/2013 08:19:00,"Obs=Pedido 67057 cancelado
+Estoque=49
+DataProdAlteracao=22/11/2013 10:11:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"alexia",28/11/2013 08:52:00,"Obs=Estragado
+Estoque=36
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",29/11/2013 10:46:00,"Obs=Pedido 66625 cancelado
+Estoque=27
+DataProdAlteracao=28/11/2013 08:52:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",29/11/2013 10:48:00,"Obs=Pedido 67053 cancelado
+Estoque=28
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",29/11/2013 10:51:00,"Obs=Pedido 66903 cancelado
+Estoque=29
+DataProdAlteracao=29/11/2013 10:48:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",06/12/2013 09:33:00,"Obs=Pedido 67453 cancelado
+Estoque=4
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",06/12/2013 09:36:00,"Obs=Pedido 67624 cancelado
+Estoque=6
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",13/12/2013 10:36:00,"Obs=Pedido 67923 cancelado
+Estoque=0
+DataProdAlteracao=10/12/2013 12:22:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",13/12/2013 10:40:00,"Obs=Pedido 67929 cancelado
+Estoque=2
+DataProdAlteracao=13/12/2013 10:36:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",13/12/2013 10:40:00,"Obs=Pedido 67928 cancelado
+Estoque=4
+DataProdAlteracao=13/12/2013 10:40:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",13/12/2013 10:42:00,"Obs=Pedido 68111 cancelado
+Estoque=6
+DataProdAlteracao=13/12/2013 10:40:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",13/12/2013 10:42:00,"Obs=Pedido 68099 cancelado
+Estoque=7
+DataProdAlteracao=13/12/2013 10:42:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",13/12/2013 10:43:00,"Obs=Pedido 68059 cancelado
+Estoque=9
+DataProdAlteracao=13/12/2013 10:42:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",13/12/2013 10:44:00,"Obs=Pedido 68189 cancelado
+Estoque=12
+DataProdAlteracao=13/12/2013 10:43:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",13/12/2013 10:45:00,"Obs=Pedido 68245 cancelado
+Estoque=13
+DataProdAlteracao=13/12/2013 10:44:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",13/12/2013 10:45:00,"Obs=Pedido 68224 cancelado
+Estoque=14
+DataProdAlteracao=13/12/2013 10:45:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"alexia",13/12/2013 10:59:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",20/12/2013 09:21:00,"Obs=Pedido 68456 cancelado
+Estoque=10
+DataProdAlteracao=13/12/2013 10:59:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",20/12/2013 09:21:00,"Obs=Pedido 68385 cancelado
+Estoque=11
+DataProdAlteracao=20/12/2013 09:21:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",20/12/2013 09:22:00,"Obs=Pedido 68531 cancelado
+Estoque=12
+DataProdAlteracao=20/12/2013 09:21:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",27/12/2013 13:50:00,"Obs=Pedido 69055 cancelado
+Estoque=10
+DataProdAlteracao=20/12/2013 09:22:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"elisa",27/12/2013 13:56:00,"Obs=Pedido 69233 cancelado
+Estoque=11
+DataProdAlteracao=27/12/2013 13:50:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",03/01/2014 09:30:00,"Obs=Pedido 69428 cancelado
+Estoque=5
+DataProdAlteracao=27/12/2013 13:56:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",03/01/2014 09:31:00,"Obs=Pedido 69476 cancelado
+Estoque=6
+DataProdAlteracao=03/01/2014 09:30:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",03/01/2014 09:32:00,"Obs=Pedido 69363 cancelado
+Estoque=7
+DataProdAlteracao=03/01/2014 09:31:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",10/01/2014 10:42:00,"Obs=Pedido 69534 cancelado
+Estoque=3
+DataProdAlteracao=03/01/2014 09:32:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",17/01/2014 12:36:00,"Obs=Pedido 69932 cancelado
+Estoque=0
+DataProdAlteracao=16/01/2014 12:13:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",17/01/2014 12:36:00,"Obs=Pedido 69923 cancelado
+Estoque=1
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",17/01/2014 12:38:00,"Obs=Pedido 70078 cancelado
+Estoque=2
+DataProdAlteracao=17/01/2014 12:36:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",17/01/2014 12:39:00,"Obs=Pedido 70141 cancelado
+Estoque=3
+DataProdAlteracao=17/01/2014 12:38:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",17/01/2014 12:41:00,"Obs=Pedido 70040 cancelado
+Estoque=4
+DataProdAlteracao=17/01/2014 12:39:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"jessica",17/01/2014 13:22:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",24/01/2014 09:00:00,"Obs=Pedido 70445 cancelado
+Estoque=0
+DataProdAlteracao=22/01/2014 07:07:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",24/01/2014 09:10:00,"Obs=Pedido 70346 cancelado
+Estoque=1
+DataProdAlteracao=24/01/2014 09:00:00
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",24/01/2014 09:11:00,"Obs=Pedido 70520 cancelado
+Estoque=2
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"alexia",24/01/2014 10:17:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004051572","Anel Biju Fina",3975950,"ines",31/01/2014 09:41:00,"Obs=Pedido 70562 cancelado
+Estoque=1
+DataProdAlteracao=24/01/2014 10:17:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"juliana",19/06/2013 09:09:00,"Obs=F: City Bij.
+Q: 98
+Marlise contou, colocou código e Juliana cadastrou.
+Foto: Daiane
+Novo"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",28/06/2013 12:38:00,"Obs=Pedido 53710 cancelado
+Estoque=90
+DataProdAlteracao=19/06/2013 09:09:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",28/06/2013 12:42:00,"Obs=Pedido 53789 cancelado
+Estoque=91
+DataProdAlteracao=28/06/2013 12:38:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",03/07/2013 13:42:00,"Obs=Pedido 54414 cancelado
+Estoque=88
+DataProdAlteracao=28/06/2013 12:42:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",04/07/2013 07:26:00,"Obs=Pedido 54968 cancelado
+Estoque=88
+DataProdAlteracao=03/07/2013 13:42:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",05/07/2013 13:52:00,"Obs=Pedido 54188 cancelado
+Estoque=87
+DataProdAlteracao=04/07/2013 07:26:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",08/07/2013 07:49:00,"Obs=Pedido 55170 cancelado
+Estoque=77
+DataProdAlteracao=05/07/2013 13:52:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",08/07/2013 07:49:00,"Obs=Pedido 55177 cancelado
+Estoque=78
+DataProdAlteracao=08/07/2013 07:49:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",19/07/2013 09:42:00,"Obs=Pedido 55327 cancelado
+Estoque=71
+DataProdAlteracao=08/07/2013 07:49:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",19/07/2013 09:44:00,"Obs=Pedido 55530 cancelado
+Estoque=72
+DataProdAlteracao=19/07/2013 09:42:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",26/07/2013 16:47:00,"Obs=Pedido 56054 cancelado
+Estoque=69
+DataProdAlteracao=19/07/2013 09:44:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",26/07/2013 16:49:00,"Obs=Pedido 56347 cancelado
+Estoque=70
+DataProdAlteracao=26/07/2013 16:47:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",02/08/2013 09:47:00,"Obs=Pedido 56397 cancelado
+Estoque=70
+DataProdAlteracao=26/07/2013 16:49:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",09/08/2013 14:27:00,"Obs=Pedido 57367 cancelado
+Estoque=63
+DataProdAlteracao=02/08/2013 09:47:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",16/08/2013 13:13:00,"Obs=Pedido 57736 cancelado
+Estoque=62
+DataProdAlteracao=09/08/2013 14:27:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",16/08/2013 13:17:00,"Obs=Pedido 57597 cancelado
+Estoque=63
+DataProdAlteracao=16/08/2013 13:13:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",19/08/2013 09:19:00,"Obs=Pedido 58391 cancelado
+Estoque=58
+DataProdAlteracao=16/08/2013 13:17:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",24/08/2013 08:51:00,"Obs=Pedido 58377 cancelado
+Estoque=51
+DataProdAlteracao=19/08/2013 09:19:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",24/08/2013 08:54:00,"Obs=Pedido 58551 cancelado
+Estoque=52
+DataProdAlteracao=24/08/2013 08:51:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",30/08/2013 10:43:00,"Obs=Pedido 58913 cancelado
+Estoque=52
+DataProdAlteracao=24/08/2013 08:54:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",30/08/2013 10:52:00,"Obs=Pedido 58601 cancelado
+Estoque=53
+DataProdAlteracao=30/08/2013 10:43:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",30/08/2013 10:54:00,"Obs=Pedido 58858 cancelado
+Estoque=54
+DataProdAlteracao=30/08/2013 10:52:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",30/08/2013 10:54:00,"Obs=Pedido 58836 cancelado
+Estoque=56
+DataProdAlteracao=30/08/2013 10:54:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",30/08/2013 10:55:00,"Obs=Pedido 58935 cancelado
+Estoque=57
+DataProdAlteracao=30/08/2013 10:54:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"ines",30/08/2013 13:57:00,"Obs=Pedido 59536 cancelado
+Estoque=58
+DataProdAlteracao=30/08/2013 10:55:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",13/09/2013 11:04:00,"Obs=Pedido 60127 cancelado
+Estoque=54
+DataProdAlteracao=30/08/2013 13:57:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",19/09/2013 12:10:00,"Obs=Pedido 60538 cancelado
+Estoque=54
+DataProdAlteracao=13/09/2013 11:04:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",19/09/2013 12:17:00,"Obs=Pedido 60929 cancelado
+Estoque=55
+DataProdAlteracao=19/09/2013 12:10:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",25/09/2013 08:25:00,"Obs=Pedido 61850 cancelado
+Estoque=52
+DataProdAlteracao=19/09/2013 12:17:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",04/10/2013 10:01:00,"Obs=Pedido 62008 cancelado
+Estoque=48
+DataProdAlteracao=25/09/2013 08:25:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",11/10/2013 10:04:00,"Obs=Pedido 62845 cancelado
+Estoque=45
+DataProdAlteracao=04/10/2013 10:01:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"adriana",25/10/2013 08:14:00,"Obs=Pedido 64012 cancelado
+Estoque=44
+DataProdAlteracao=11/10/2013 10:04:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",01/11/2013 09:50:00,"Obs=Pedido 64589 cancelado
+Estoque=44
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"alexia",04/11/2013 10:43:00,"Obs=
+OrdemProd=0
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",14/11/2013 11:02:00,"Obs=Pedido 65673 cancelado
+Estoque=27
+DataProdAlteracao=04/11/2013 10:43:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",14/11/2013 11:02:00,"Obs=Pedido 65669 cancelado
+Estoque=28
+DataProdAlteracao=14/11/2013 11:02:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",14/11/2013 11:05:00,"Obs=Pedido 65401 cancelado
+Estoque=35
+DataProdAlteracao=14/11/2013 11:02:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",22/11/2013 10:01:00,"Obs=Pedido 66081 cancelado
+Estoque=32
+DataProdAlteracao=14/11/2013 11:05:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",22/11/2013 10:04:00,"Obs=Pedido 66519 cancelado
+Estoque=33
+DataProdAlteracao=22/11/2013 10:01:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",22/11/2013 10:04:00,"Obs=Pedido 66483 cancelado
+Estoque=34
+DataProdAlteracao=22/11/2013 10:04:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",22/11/2013 10:06:00,"Obs=Pedido 66082 cancelado
+Estoque=35
+DataProdAlteracao=22/11/2013 10:04:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",22/11/2013 10:08:00,"Obs=Pedido 66346 cancelado
+Estoque=36
+DataProdAlteracao=22/11/2013 10:06:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"camila",22/11/2013 11:56:00,"Obs=Pedido 67096 cancelado
+Estoque=36
+DataProdAlteracao=22/11/2013 10:08:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",29/11/2013 10:46:00,"Obs=Pedido 66625 cancelado
+Estoque=31
+DataProdAlteracao=22/11/2013 11:56:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",29/11/2013 10:48:00,"Obs=Pedido 67053 cancelado
+Estoque=32
+DataProdAlteracao=29/11/2013 10:46:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"alexia",02/12/2013 12:18:00,"Obs=Estragado
+Estoque=31
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",06/12/2013 09:33:00,"Obs=Pedido 67453 cancelado
+Estoque=22
+DataProdAlteracao=02/12/2013 12:18:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",06/12/2013 09:36:00,"Obs=Pedido 67624 cancelado
+Estoque=24
+DataProdAlteracao=06/12/2013 09:33:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",13/12/2013 10:35:00,"Obs=Pedido 68027 cancelado
+Estoque=19
+DataProdAlteracao=06/12/2013 09:36:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",13/12/2013 10:43:00,"Obs=Pedido 68059 cancelado
+Estoque=20
+DataProdAlteracao=13/12/2013 10:35:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",13/12/2013 10:44:00,"Obs=Pedido 68189 cancelado
+Estoque=23
+DataProdAlteracao=13/12/2013 10:43:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",13/12/2013 10:45:00,"Obs=Pedido 68245 cancelado
+Estoque=24
+DataProdAlteracao=13/12/2013 10:44:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",13/12/2013 10:45:00,"Obs=Pedido 68224 cancelado
+Estoque=25
+DataProdAlteracao=13/12/2013 10:45:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",20/12/2013 09:18:00,"Obs=Pedido 68683 cancelado
+Estoque=24
+DataProdAlteracao=13/12/2013 10:45:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",20/12/2013 09:24:00,"Obs=Pedido 68711 cancelado
+Estoque=25
+DataProdAlteracao=20/12/2013 09:18:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",20/12/2013 09:25:00,"Obs=Pedido 68679 cancelado
+Estoque=26
+DataProdAlteracao=20/12/2013 09:24:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"elisa",27/12/2013 13:50:00,"Obs=Pedido 69055 cancelado
+Estoque=27
+DataProdAlteracao=20/12/2013 09:25:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"ines",10/01/2014 10:42:00,"Obs=Pedido 69534 cancelado
+Estoque=12
+DataProdAlteracao=27/12/2013 13:50:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"ines",10/01/2014 10:43:00,"Obs=Pedido 69555 cancelado
+Estoque=13
+DataProdAlteracao=10/01/2014 10:42:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"camila",10/01/2014 13:03:00,"Obs=Pedido 70087 cancelado
+Estoque=17
+DataProdAlteracao=10/01/2014 10:43:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"ines",17/01/2014 12:36:00,"Obs=Pedido 69932 cancelado
+Estoque=13
+DataProdAlteracao=10/01/2014 13:03:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"ines",17/01/2014 12:38:00,"Obs=Pedido 70078 cancelado
+Estoque=14
+DataProdAlteracao=17/01/2014 12:36:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"ines",17/01/2014 12:42:00,"Obs=Pedido 70110 cancelado
+Estoque=15
+DataProdAlteracao=17/01/2014 12:38:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"ines",24/01/2014 09:11:00,"Obs=Pedido 70458 cancelado
+Estoque=15
+DataProdAlteracao=17/01/2014 12:42:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"ines",24/01/2014 09:11:00,"Obs=Pedido 70443 cancelado
+Estoque=16
+DataProdAlteracao=24/01/2014 09:11:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"ines",24/01/2014 09:11:00,"Obs=Pedido 70508 cancelado
+Estoque=17
+DataProdAlteracao=24/01/2014 09:11:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"ines",07/02/2014 09:43:00,"Obs=Pedido 70937 cancelado
+Estoque=12
+DataProdAlteracao=24/01/2014 09:11:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"ines",07/02/2014 09:44:00,"Obs=Pedido 71163 cancelado
+Estoque=13
+DataProdAlteracao=07/02/2014 09:43:00
+"
+"Anéis Biju Fina","2270004051576","Anel Biju Fina",3975952,"ines",14/02/2014 09:44:00,"Obs=Pedido 71576 cancelado
+Estoque=8
+DataProdAlteracao=07/02/2014 09:44:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"juliana",19/06/2013 15:11:00,"Obs=F: City Bij.
+Q: 99
+Marlise contou, colocou código e Juliana cadastrou.
+Foto: Renata
+Novo"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",28/06/2013 12:38:00,"Obs=Pedido 53782 cancelado
+Estoque=88
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",28/06/2013 12:38:00,"Obs=Pedido 53710 cancelado
+Estoque=89
+DataProdAlteracao=28/06/2013 12:38:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",28/06/2013 12:42:00,"Obs=Pedido 53804 cancelado
+Estoque=90
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",05/07/2013 13:50:00,"Obs=Pedido 53960 cancelado
+Estoque=85
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",05/07/2013 13:52:00,"Obs=Pedido 54330 cancelado
+Estoque=87
+DataProdAlteracao=05/07/2013 13:50:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",12/07/2013 11:56:00,"Obs=Pedido 54671 cancelado
+Estoque=86
+DataProdAlteracao=05/07/2013 13:52:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",12/07/2013 11:58:00,"Obs=Pedido 54931 cancelado
+Estoque=87
+DataProdAlteracao=12/07/2013 11:56:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",12/07/2013 12:01:00,"Obs=Pedido 54933 cancelado
+Estoque=88
+DataProdAlteracao=12/07/2013 11:58:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",19/07/2013 09:43:00,"Obs=Pedido 55355 cancelado
+Estoque=86
+DataProdAlteracao=12/07/2013 12:01:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",26/07/2013 16:47:00,"Obs=Pedido 56108 cancelado
+Estoque=86
+DataProdAlteracao=19/07/2013 09:43:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",02/08/2013 09:55:00,"Obs=Pedido 56864 cancelado
+Estoque=84
+DataProdAlteracao=26/07/2013 16:47:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",09/08/2013 08:32:00,"Obs=Pedido 57915 cancelado
+Estoque=82
+DataProdAlteracao=02/08/2013 09:55:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",13/08/2013 09:10:00,"Obs=Pedido 58084 cancelado
+Estoque=80
+DataProdAlteracao=09/08/2013 08:32:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",24/08/2013 08:49:00,"Obs=Pedido 58228 cancelado
+Estoque=75
+DataProdAlteracao=13/08/2013 09:10:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",24/08/2013 08:57:00,"Obs=Pedido 58233 cancelado
+Estoque=76
+DataProdAlteracao=24/08/2013 08:49:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",30/08/2013 10:54:00,"Obs=Pedido 58858 cancelado
+Estoque=74
+DataProdAlteracao=24/08/2013 08:57:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"ines",30/08/2013 13:57:00,"Obs=Pedido 59536 cancelado
+Estoque=75
+DataProdAlteracao=30/08/2013 10:54:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",06/09/2013 11:33:00,"Obs=Pedido 59235 cancelado
+Estoque=74
+DataProdAlteracao=30/08/2013 13:57:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",19/09/2013 12:09:00,"Obs=Pedido 60384 cancelado
+Estoque=65
+DataProdAlteracao=06/09/2013 11:33:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",19/09/2013 12:11:00,"Obs=Pedido 60665 cancelado
+Estoque=66
+DataProdAlteracao=19/09/2013 12:09:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",19/09/2013 12:14:00,"Obs=Pedido 60561 cancelado
+Estoque=67
+DataProdAlteracao=19/09/2013 12:11:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",30/09/2013 14:55:00,"Obs=Pedido 62564 cancelado
+Estoque=50
+DataProdAlteracao=19/09/2013 12:14:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",04/10/2013 09:53:00,"Obs=Pedido 61923 cancelado
+Estoque=47
+DataProdAlteracao=30/09/2013 14:55:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",04/10/2013 10:02:00,"Obs=Pedido 62296 cancelado
+Estoque=49
+DataProdAlteracao=04/10/2013 09:53:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",04/10/2013 10:02:00,"Obs=Pedido 62225 cancelado
+Estoque=50
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",11/10/2013 09:49:00,"Obs=Pedido 62474 cancelado
+Estoque=45
+DataProdAlteracao=04/10/2013 10:02:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",11/10/2013 09:58:00,"Obs=Pedido 62472 cancelado
+Estoque=47
+DataProdAlteracao=11/10/2013 09:49:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",11/10/2013 10:04:00,"Obs=Pedido 62845 cancelado
+Estoque=49
+DataProdAlteracao=11/10/2013 09:58:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",11/10/2013 10:04:00,"Obs=Pedido 62942 cancelado
+Estoque=50
+DataProdAlteracao=11/10/2013 10:04:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",18/10/2013 13:55:00,"Obs=Pedido 63941 cancelado
+Estoque=47
+DataProdAlteracao=11/10/2013 10:04:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",25/10/2013 07:53:00,"Obs=Pedido 63596 cancelado
+Estoque=45
+DataProdAlteracao=18/10/2013 13:55:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",25/10/2013 08:14:00,"Obs=Pedido 64012 cancelado
+Estoque=46
+DataProdAlteracao=25/10/2013 07:53:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",01/11/2013 09:49:00,"Obs=Pedido 64413 cancelado
+Estoque=46
+DataProdAlteracao=30/10/2013 16:12:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"alexia",04/11/2013 10:43:00,"Obs=
+OrdemProd=0
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",08/11/2013 09:46:00,"Obs=Pedido 64947 cancelado
+Estoque=37
+DataProdAlteracao=04/11/2013 10:43:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"adriana",08/11/2013 09:48:00,"Obs=Pedido 65220 cancelado
+Estoque=38
+DataProdAlteracao=08/11/2013 09:46:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",14/11/2013 11:02:00,"Obs=Pedido 65669 cancelado
+Estoque=37
+DataProdAlteracao=08/11/2013 09:48:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",14/11/2013 11:02:00,"Obs=Pedido 65654 cancelado
+Estoque=40
+DataProdAlteracao=14/11/2013 11:02:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",14/11/2013 11:05:00,"Obs=Pedido 65401 cancelado
+Estoque=41
+DataProdAlteracao=14/11/2013 11:02:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",22/11/2013 10:02:00,"Obs=Pedido 66264 cancelado
+Estoque=38
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",22/11/2013 10:04:00,"Obs=Pedido 66519 cancelado
+Estoque=39
+DataProdAlteracao=22/11/2013 10:02:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",22/11/2013 10:04:00,"Obs=Pedido 66483 cancelado
+Estoque=40
+DataProdAlteracao=22/11/2013 10:04:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",22/11/2013 10:08:00,"Obs=Pedido 66346 cancelado
+Estoque=41
+DataProdAlteracao=22/11/2013 10:04:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",29/11/2013 10:48:00,"Obs=Pedido 67053 cancelado
+Estoque=34
+DataProdAlteracao=22/11/2013 10:08:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",06/12/2013 09:26:00,"Obs=Pedido 67274 cancelado
+Estoque=30
+DataProdAlteracao=29/11/2013 10:48:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",06/12/2013 09:32:00,"Obs=Pedido 67277 cancelado
+Estoque=31
+DataProdAlteracao=06/12/2013 09:26:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",06/12/2013 09:33:00,"Obs=Pedido 67453 cancelado
+Estoque=32
+DataProdAlteracao=06/12/2013 09:32:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",06/12/2013 09:36:00,"Obs=Pedido 67624 cancelado
+Estoque=34
+DataProdAlteracao=06/12/2013 09:33:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",13/12/2013 10:44:00,"Obs=Pedido 68189 cancelado
+Estoque=29
+DataProdAlteracao=06/12/2013 09:36:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",13/12/2013 10:45:00,"Obs=Pedido 68245 cancelado
+Estoque=30
+DataProdAlteracao=13/12/2013 10:44:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",20/12/2013 09:18:00,"Obs=Pedido 68683 cancelado
+Estoque=30
+DataProdAlteracao=13/12/2013 10:45:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",20/12/2013 09:25:00,"Obs=Pedido 68679 cancelado
+Estoque=31
+DataProdAlteracao=20/12/2013 09:18:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"elisa",27/12/2013 13:56:00,"Obs=Pedido 69233 cancelado
+Estoque=30
+DataProdAlteracao=20/12/2013 09:25:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"ines",03/01/2014 09:30:00,"Obs=Pedido 69428 cancelado
+Estoque=26
+DataProdAlteracao=27/12/2013 13:56:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"ines",03/01/2014 09:31:00,"Obs=Pedido 69476 cancelado
+Estoque=27
+DataProdAlteracao=03/01/2014 09:30:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"ines",10/01/2014 10:42:00,"Obs=Pedido 69534 cancelado
+Estoque=24
+DataProdAlteracao=03/01/2014 09:31:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"ines",10/01/2014 10:43:00,"Obs=Pedido 69661 cancelado
+Estoque=25
+DataProdAlteracao=10/01/2014 10:42:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"camila",10/01/2014 13:03:00,"Obs=Pedido 70087 cancelado
+Estoque=25
+DataProdAlteracao=10/01/2014 10:43:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"ines",17/01/2014 12:36:00,"Obs=Pedido 69932 cancelado
+Estoque=19
+DataProdAlteracao=10/01/2014 13:03:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"ines",17/01/2014 12:38:00,"Obs=Pedido 70078 cancelado
+Estoque=20
+DataProdAlteracao=17/01/2014 12:36:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"ines",17/01/2014 12:42:00,"Obs=Pedido 70110 cancelado
+Estoque=21
+DataProdAlteracao=17/01/2014 12:38:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"ines",24/01/2014 09:00:00,"Obs=Pedido 70445 cancelado
+Estoque=19
+DataProdAlteracao=17/01/2014 12:42:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"ines",24/01/2014 09:11:00,"Obs=Pedido 70458 cancelado
+Estoque=20
+DataProdAlteracao=24/01/2014 09:00:00
+"
+"Anéis Biju Fina","2270004051578","Anel Biju Fina",3976338,"ines",31/01/2014 09:39:00,"Obs=Pedido 70762 cancelado
+Estoque=21
+DataProdAlteracao=24/01/2014 09:11:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"juliana",19/06/2013 15:12:00,"Obs=F: City Bij.
+Q: 43
+Marlise contou, colocou código e Juliana cadastrou.
+Foto: Renata
+Novo"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",28/06/2013 12:38:00,"Obs=Pedido 53782 cancelado
+Estoque=40
+DataProdAlteracao=19/06/2013 15:12:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",28/06/2013 12:42:00,"Obs=Pedido 53841 cancelado
+Estoque=41
+DataProdAlteracao=28/06/2013 12:38:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",05/07/2013 13:51:00,"Obs=Pedido 54026 cancelado
+Estoque=40
+DataProdAlteracao=28/06/2013 12:42:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",06/07/2013 07:48:00,"Obs=Pedido 54531 cancelado
+Estoque=41
+DataProdAlteracao=05/07/2013 13:51:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",19/07/2013 09:44:00,"Obs=Pedido 55527 cancelado
+Estoque=39
+DataProdAlteracao=06/07/2013 07:48:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",02/08/2013 09:52:00,"Obs=Pedido 56865 cancelado
+Estoque=38
+DataProdAlteracao=19/07/2013 09:44:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"ines",15/08/2013 17:11:00,"Obs=Pedido 58243 cancelado
+Estoque=34
+DataProdAlteracao=02/08/2013 09:52:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"ines",15/08/2013 17:11:00,"Obs=Pedido 57894 cancelado
+Estoque=35
+DataProdAlteracao=15/08/2013 17:11:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"ines",20/08/2013 17:05:00,"Obs=Pedido 58817 cancelado
+Estoque=31
+DataProdAlteracao=15/08/2013 17:11:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"ines",20/08/2013 17:19:00,"Obs=Pedido 58823 cancelado
+Estoque=31
+DataProdAlteracao=20/08/2013 17:05:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",21/08/2013 09:50:00,"Obs=Pedido 58824 cancelado
+Estoque=28
+DataProdAlteracao=20/08/2013 17:19:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",24/08/2013 08:57:00,"Obs=Pedido 58233 cancelado
+Estoque=29
+DataProdAlteracao=21/08/2013 09:50:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",30/08/2013 10:41:00,"Obs=Pedido 58769 cancelado
+Estoque=28
+DataProdAlteracao=24/08/2013 08:57:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",30/08/2013 10:54:00,"Obs=Pedido 58858 cancelado
+Estoque=29
+DataProdAlteracao=30/08/2013 10:41:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"ines",30/08/2013 13:57:00,"Obs=Pedido 59536 cancelado
+Estoque=30
+DataProdAlteracao=30/08/2013 10:54:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",06/09/2013 11:30:00,"Obs=Pedido 59514 cancelado
+Estoque=30
+DataProdAlteracao=30/08/2013 13:57:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",17/09/2013 08:45:00,"Obs=Pedido 61097 cancelado
+Estoque=27
+DataProdAlteracao=06/09/2013 11:30:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",04/10/2013 09:53:00,"Obs=Pedido 61923 cancelado
+Estoque=21
+DataProdAlteracao=17/09/2013 08:45:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",11/10/2013 10:04:00,"Obs=Pedido 62858 cancelado
+Estoque=20
+DataProdAlteracao=04/10/2013 09:53:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",18/10/2013 13:55:00,"Obs=Pedido 63941 cancelado
+Estoque=15
+DataProdAlteracao=11/10/2013 10:04:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",18/10/2013 14:05:00,"Obs=Pedido 63494 cancelado
+Estoque=16
+DataProdAlteracao=18/10/2013 13:55:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",25/10/2013 07:51:00,"Obs=Pedido 63561 cancelado
+Estoque=18
+DataProdAlteracao=18/10/2013 14:05:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",25/10/2013 07:53:00,"Obs=Pedido 63596 cancelado
+Estoque=19
+DataProdAlteracao=25/10/2013 07:51:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"alexia",04/11/2013 10:43:00,"Obs=
+OrdemProd=0
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",08/11/2013 09:46:00,"Obs=Pedido 64947 cancelado
+Estoque=8
+DataProdAlteracao=04/11/2013 10:43:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",14/11/2013 11:02:00,"Obs=Pedido 65669 cancelado
+Estoque=6
+DataProdAlteracao=08/11/2013 09:46:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",14/11/2013 11:04:00,"Obs=Pedido 65364 cancelado
+Estoque=13
+DataProdAlteracao=14/11/2013 11:02:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",22/11/2013 10:04:00,"Obs=Pedido 66519 cancelado
+Estoque=11
+DataProdAlteracao=14/11/2013 11:04:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",22/11/2013 10:04:00,"Obs=Pedido 66483 cancelado
+Estoque=12
+DataProdAlteracao=22/11/2013 10:04:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",22/11/2013 10:06:00,"Obs=Pedido 66056 cancelado
+Estoque=13
+DataProdAlteracao=22/11/2013 10:04:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",22/11/2013 10:06:00,"Obs=Pedido 66150 cancelado
+Estoque=14
+DataProdAlteracao=22/11/2013 10:06:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",22/11/2013 10:08:00,"Obs=Pedido 66346 cancelado
+Estoque=15
+DataProdAlteracao=22/11/2013 10:06:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"camila",22/11/2013 11:56:00,"Obs=Pedido 67096 cancelado
+Estoque=15
+DataProdAlteracao=22/11/2013 10:08:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",29/11/2013 10:48:00,"Obs=Pedido 67053 cancelado
+Estoque=8
+DataProdAlteracao=22/11/2013 11:56:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",06/12/2013 09:33:00,"Obs=Pedido 67453 cancelado
+Estoque=3
+DataProdAlteracao=29/11/2013 10:48:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",06/12/2013 09:36:00,"Obs=Pedido 67624 cancelado
+Estoque=5
+DataProdAlteracao=06/12/2013 09:33:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",13/12/2013 10:44:00,"Obs=Pedido 68189 cancelado
+Estoque=3
+DataProdAlteracao=06/12/2013 09:36:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"elisa",13/12/2013 10:45:00,"Obs=Pedido 68245 cancelado
+Estoque=4
+DataProdAlteracao=13/12/2013 10:44:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"ines",10/01/2014 10:42:00,"Obs=Pedido 69534 cancelado
+Estoque=1
+DataProdAlteracao=13/12/2013 10:45:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"ines",17/01/2014 12:36:00,"Obs=Pedido 69932 cancelado
+Estoque=0
+DataProdAlteracao=13/01/2014 07:05:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"ines",17/01/2014 12:38:00,"Obs=Pedido 70078 cancelado
+Estoque=1
+DataProdAlteracao=17/01/2014 12:36:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"ines",17/01/2014 12:39:00,"Obs=Pedido 70144 cancelado
+Estoque=2
+DataProdAlteracao=17/01/2014 12:38:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"jessica",17/01/2014 13:34:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"ines",07/02/2014 09:44:00,"Obs=Pedido 71163 cancelado
+Estoque=0
+DataProdAlteracao=01/02/2014 07:28:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"ines",07/02/2014 09:45:00,"Obs=Pedido 71181 cancelado
+Estoque=1
+DataProdAlteracao=07/02/2014 09:44:00
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"ines",07/02/2014 10:51:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004051579","Anel Biju Fina",3976339,"adriana",14/02/2014 09:45:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"juliana",28/08/2013 10:32:00,"Obs=PN
+F: Wj
+Q: 24
+Marlise contou, colocou código e Juliana cadastrou.
+Foto: Renata
+Novo"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"adriana",13/09/2013 11:04:00,"Obs=Pedido 60127 cancelado
+Estoque=22
+DataProdAlteracao=28/08/2013 10:33:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"adriana",19/09/2013 12:14:00,"Obs=Pedido 60561 cancelado
+Estoque=21
+DataProdAlteracao=13/09/2013 11:04:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"elisa",27/09/2013 14:33:00,"Obs=Pedido 61207 cancelado
+Estoque=18
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"adriana",04/10/2013 09:52:00,"Obs=Pedido 61743 cancelado
+Estoque=15
+DataProdAlteracao=27/09/2013 14:33:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"elisa",11/10/2013 09:52:00,"Obs=Pedido 62616 cancelado
+Estoque=14
+DataProdAlteracao=04/10/2013 09:52:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"elisa",11/10/2013 09:57:00,"Obs=Pedido 62429 cancelado
+Estoque=15
+DataProdAlteracao=11/10/2013 09:52:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"adriana",18/10/2013 14:03:00,"Obs=Pedido 63033 cancelado
+Estoque=8
+DataProdAlteracao=11/10/2013 09:57:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"adriana",25/10/2013 07:53:00,"Obs=Pedido 63596 cancelado
+Estoque=7
+DataProdAlteracao=18/10/2013 14:03:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"adriana",25/10/2013 08:10:00,"Obs=Pedido 63977 cancelado
+Estoque=8
+DataProdAlteracao=25/10/2013 07:53:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"adriana",25/10/2013 08:14:00,"Obs=Pedido 63921 cancelado
+Estoque=10
+DataProdAlteracao=25/10/2013 08:10:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"alexia",04/11/2013 10:50:00,"Obs=
+OrdemProd=0
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"elisa",29/11/2013 10:46:00,"Obs=Pedido 66625 cancelado
+Estoque=1
+DataProdAlteracao=04/11/2013 10:50:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"elisa",06/12/2013 09:33:00,"Obs=Pedido 67453 cancelado
+Estoque=0
+DataProdAlteracao=06/12/2013 07:05:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"alexia",06/12/2013 11:51:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"elisa",13/12/2013 10:44:00,"Obs=Pedido 68189 cancelado
+Estoque=1
+DataProdAlteracao=06/12/2013 11:51:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"elisa",20/12/2013 09:24:00,"Obs=Pedido 68711 cancelado
+Estoque=1
+DataProdAlteracao=13/12/2013 10:44:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"ines",03/01/2014 09:29:00,"Obs=Pedido 69376 cancelado
+Estoque=0
+DataProdAlteracao=26/12/2013 07:07:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"ines",03/01/2014 09:33:00,"Obs=Pedido 69374 cancelado
+Estoque=1
+DataProdAlteracao=03/01/2014 09:29:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"alexia",03/01/2014 11:55:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"ines",17/01/2014 12:42:00,"Obs=Pedido 69997 cancelado
+Estoque=0
+DataProdAlteracao=09/01/2014 07:08:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"alexia",17/01/2014 14:00:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"ines",31/01/2014 09:43:00,"Obs=Pedido 70751 cancelado
+Estoque=0
+DataProdAlteracao=22/01/2014 17:18:00
+"
+"Anéis Biju Fina","2270004052107","Anel Biju Fina",4062268,"alexia",31/01/2014 11:33:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"juliana",19/10/2013 09:27:00,"Obs=PN
+F: Eterno
+Q: 62
+Marlise contou, colocou código e Juliana cadastrou.
+Foto: Daiane
+Novo"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",01/11/2013 09:34:00,"Obs=Pedido 64446 cancelado
+Estoque=49
+DataProdAlteracao=30/10/2013 16:12:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"alexia",04/11/2013 10:52:00,"Obs=
+OrdemProd=0
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"ines",06/11/2013 14:04:00,"Obs=Pedido 65588 cancelado
+Estoque=44
+DataProdAlteracao=04/11/2013 10:52:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"adriana",08/11/2013 09:47:00,"Obs=Pedido 65012 cancelado
+Estoque=40
+DataProdAlteracao=06/11/2013 14:04:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"adriana",08/11/2013 09:48:00,"Obs=Pedido 65142 cancelado
+Estoque=41
+DataProdAlteracao=08/11/2013 09:47:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"adriana",08/11/2013 09:49:00,"Obs=Pedido 65196 cancelado
+Estoque=44
+DataProdAlteracao=08/11/2013 09:48:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",14/11/2013 11:02:00,"Obs=Pedido 65675 cancelado
+Estoque=30
+DataProdAlteracao=08/11/2013 09:49:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",14/11/2013 11:07:00,"Obs=Pedido 65546 cancelado
+Estoque=31
+DataProdAlteracao=14/11/2013 11:02:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",14/11/2013 11:08:00,"Obs=Pedido 65593 cancelado
+Estoque=32
+DataProdAlteracao=14/11/2013 11:07:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",14/11/2013 11:08:00,"Obs=Pedido 65693 cancelado
+Estoque=33
+DataProdAlteracao=14/11/2013 11:08:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",14/11/2013 11:09:00,"Obs=Pedido 65761 cancelado
+Estoque=34
+DataProdAlteracao=14/11/2013 11:08:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",14/11/2013 11:10:00,"Obs=Pedido 65925 cancelado
+Estoque=35
+DataProdAlteracao=14/11/2013 11:09:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",22/11/2013 10:01:00,"Obs=Pedido 66043 cancelado
+Estoque=18
+DataProdAlteracao=14/11/2013 11:10:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",22/11/2013 10:02:00,"Obs=Pedido 66264 cancelado
+Estoque=19
+DataProdAlteracao=22/11/2013 10:01:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",22/11/2013 10:03:00,"Obs=Pedido 66337 cancelado
+Estoque=20
+DataProdAlteracao=22/11/2013 10:02:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",22/11/2013 10:04:00,"Obs=Pedido 66591 cancelado
+Estoque=21
+DataProdAlteracao=22/11/2013 10:03:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",22/11/2013 10:06:00,"Obs=Pedido 66056 cancelado
+Estoque=22
+DataProdAlteracao=22/11/2013 10:04:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",22/11/2013 10:06:00,"Obs=Pedido 66049 cancelado
+Estoque=23
+DataProdAlteracao=22/11/2013 10:06:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",22/11/2013 10:07:00,"Obs=Pedido 66248 cancelado
+Estoque=24
+DataProdAlteracao=22/11/2013 10:06:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",22/11/2013 10:09:00,"Obs=Pedido 66476 cancelado
+Estoque=27
+DataProdAlteracao=22/11/2013 10:07:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",22/11/2013 10:09:00,"Obs=Pedido 66451 cancelado
+Estoque=28
+DataProdAlteracao=22/11/2013 10:09:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",22/11/2013 10:11:00,"Obs=Pedido 66605 cancelado
+Estoque=29
+DataProdAlteracao=22/11/2013 10:09:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"camila",22/11/2013 11:56:00,"Obs=Pedido 67096 cancelado
+Estoque=29
+DataProdAlteracao=22/11/2013 10:11:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"camila",28/11/2013 09:26:00,"Obs=Pedido 67563 cancelado
+Estoque=13
+DataProdAlteracao=22/11/2013 11:56:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",29/11/2013 10:46:00,"Obs=Pedido 66625 cancelado
+Estoque=2
+DataProdAlteracao=28/11/2013 09:26:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",29/11/2013 10:46:00,"Obs=Pedido 66876 cancelado
+Estoque=3
+DataProdAlteracao=29/11/2013 10:46:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",29/11/2013 10:51:00,"Obs=Pedido 66903 cancelado
+Estoque=4
+DataProdAlteracao=29/11/2013 10:46:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",29/11/2013 10:52:00,"Obs=Pedido 67063 cancelado
+Estoque=5
+DataProdAlteracao=29/11/2013 10:51:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",29/11/2013 10:52:00,"Obs=Pedido 67015 cancelado
+Estoque=6
+DataProdAlteracao=29/11/2013 10:52:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"camila",04/12/2013 11:41:00,"Obs=Pedido 67931 cancelado
+Estoque=0
+DataProdAlteracao=03/12/2013 07:09:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"jessica",04/12/2013 14:49:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",06/12/2013 09:26:00,"Obs=Pedido 67368 cancelado
+Estoque=0
+DataProdAlteracao=05/12/2013 07:05:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",06/12/2013 09:27:00,"Obs=Pedido 67417 cancelado
+Estoque=1
+DataProdAlteracao=06/12/2013 09:26:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",06/12/2013 09:30:00,"Obs=Pedido 67658 cancelado
+Estoque=2
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",06/12/2013 09:30:00,"Obs=Pedido 67587 cancelado
+Estoque=3
+DataProdAlteracao=06/12/2013 09:30:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",06/12/2013 09:33:00,"Obs=Pedido 67453 cancelado
+Estoque=5
+DataProdAlteracao=06/12/2013 09:30:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",06/12/2013 09:34:00,"Obs=Pedido 67361 cancelado
+Estoque=7
+DataProdAlteracao=06/12/2013 09:33:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",06/12/2013 09:35:00,"Obs=Pedido 67465 cancelado
+Estoque=8
+DataProdAlteracao=06/12/2013 09:34:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",06/12/2013 09:35:00,"Obs=Pedido 67464 cancelado
+Estoque=9
+DataProdAlteracao=06/12/2013 09:35:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",06/12/2013 09:36:00,"Obs=Pedido 67542 cancelado
+Estoque=10
+DataProdAlteracao=06/12/2013 09:35:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",06/12/2013 09:36:00,"Obs=Pedido 67624 cancelado
+Estoque=11
+DataProdAlteracao=06/12/2013 09:36:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"jessica",06/12/2013 10:13:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"ines",11/12/2013 10:58:00,"Obs=Pedido 68334 cancelado
+Estoque=3
+DataProdAlteracao=06/12/2013 10:13:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",13/12/2013 10:35:00,"Obs=Pedido 67759 cancelado
+Estoque=0
+DataProdAlteracao=12/12/2013 12:22:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",13/12/2013 10:42:00,"Obs=Pedido 68117 cancelado
+Estoque=1
+DataProdAlteracao=13/12/2013 10:35:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"jessica",13/12/2013 12:18:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",20/12/2013 09:18:00,"Obs=Pedido 68537 cancelado
+Estoque=0
+DataProdAlteracao=16/12/2013 12:28:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",20/12/2013 09:21:00,"Obs=Pedido 68456 cancelado
+Estoque=1
+DataProdAlteracao=20/12/2013 09:18:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",20/12/2013 09:21:00,"Obs=Pedido 68385 cancelado
+Estoque=2
+DataProdAlteracao=20/12/2013 09:21:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",20/12/2013 09:22:00,"Obs=Pedido 68518 cancelado
+Estoque=3
+DataProdAlteracao=20/12/2013 09:21:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",20/12/2013 09:24:00,"Obs=Pedido 68700 cancelado
+Estoque=5
+DataProdAlteracao=20/12/2013 09:22:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"elisa",20/12/2013 09:25:00,"Obs=Pedido 68667 cancelado
+Estoque=6
+DataProdAlteracao=20/12/2013 09:24:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"jessica",20/12/2013 09:45:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"ines",03/01/2014 09:29:00,"Obs=Pedido 69377 cancelado
+Estoque=0
+DataProdAlteracao=26/12/2013 07:07:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"ines",03/01/2014 09:29:00,"Obs=Pedido 69376 cancelado
+Estoque=1
+DataProdAlteracao=03/01/2014 09:29:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"ines",03/01/2014 09:29:00,"Obs=Pedido 69350 cancelado
+Estoque=2
+DataProdAlteracao=03/01/2014 09:29:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"ines",03/01/2014 09:33:00,"Obs=Pedido 69374 cancelado
+Estoque=3
+DataProdAlteracao=03/01/2014 09:29:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"alexia",03/01/2014 11:34:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"ines",10/01/2014 10:49:00,"Obs=Pedido 69730 cancelado
+Estoque=0
+DataProdAlteracao=06/01/2014 07:03:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"alexia",10/01/2014 14:02:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"ines",17/01/2014 12:39:00,"Obs=Pedido 70144 cancelado
+Estoque=0
+DataProdAlteracao=11/01/2014 07:25:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"alexia",17/01/2014 14:00:00,"Obs=
+Disponivel=False
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"ines",31/01/2014 09:41:00,"Obs=Pedido 70609 cancelado
+Estoque=0
+DataProdAlteracao=20/01/2014 07:51:00
+"
+"Anéis Biju Fina","2270004052569","Anel Biju Fina",4133969,"alexia",31/01/2014 10:42:00,"Obs=
+Disponivel=False
+"
