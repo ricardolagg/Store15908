@@ -1,0 +1,140 @@
+<style>
+.box_navega {
+	width:167px;
+	height:199px;
+	position:relative;
+	margin-top:25px;
+}
+.box_correios {
+	width:167px;
+	height:199px;
+	background-image:url(<BaseLoja>images/box_correio.jpg);
+	background-repeat:no-repeat;
+	background-position:top center;
+	position:relative;
+	margin-top:25px;
+}
+
+#box_correios {
+	border:0px;
+	background-image:url(<BaseLoja>images/button_correio01.png);
+	background-color:transparent;
+	width:31px;
+	height:29px;
+	position:absolute;
+	bottom:24px;
+	right:9px;
+}
+#box_correios:hover {
+	border:0px;
+	background-image:url(<BaseLoja>images/button_correio02.png);
+	background-color:transparent;
+	width:31px;
+	height:29px;
+}
+
+/* BOLSAS 50% OFF */
+#idPathCat232231 a {
+	color:#ffff00;
+	background-image:url(http://www.bijouxbrasil.com.br/lojas/00015908/images/off50.png);
+	background-position:top right;
+	background-repeat:no-repeat;
+	height:30px;
+}
+#idPathCat232231 a:hover {
+	color:#e6df23;
+}
+
+/* ANEIS 60% OFF */
+#idPathCat227190 a {
+	color:#ffff00;
+	background-image:url(http://www.bijouxbrasil.com.br/lojas/00015908/images/off60.png);
+	background-position:top right;
+	background-repeat:no-repeat;
+	height:30px;
+}
+#idPathCat227190 a:hover {
+	color:#e6df23;
+}
+
+/* BRINCOS 60% OFF */
+#idPathCat227189 a {
+	color:#ffff00;
+	background-image:url(http://www.bijouxbrasil.com.br/lojas/00015908/images/off60.png);
+	background-position:top right;
+	background-repeat:no-repeat;
+	height:30px;
+}
+#idPathCat227189 a:hover {
+	color:#e6df23;
+}
+
+/* COLARES 60% OFF */
+#idPathCat227191 a {
+	color:#ffff00;
+	background-image:url(http://www.bijouxbrasil.com.br/lojas/00015908/images/off60.png);
+	background-position:top right;
+	background-repeat:no-repeat;
+	height:30px;
+}
+#idPathCat227191 a:hover {
+	color:#e6df23;
+}
+
+/* PULSEIRAS 60% OFF */
+#idPathCat227192 a {
+	color:#ffff00;
+	background-image:url(http://www.bijouxbrasil.com.br/lojas/00015908/images/off60.png);
+	background-position:top right;
+	background-repeat:no-repeat;
+	height:30px;
+}
+#idPathCat227192 a:hover {
+	color:#e6df23;
+}
+.rastreio {
+	width: 167px;
+	height: 199px;
+}
+#rastreio {
+	width: 167px;
+	height: 199px;
+	display: block;
+}
+
+/* INVERNO 60% OFF */
+/*#idPathCat227359 a {
+	color:#ffff00;
+	background-image:url(http://www.bijouxbrasil.com.br/lojas/00015908/images/off60.png);
+	background-position:top right;
+	background-repeat:no-repeat;
+	height:30px;
+}
+#idPathCat227359 a:hover {
+	color:#e6df23;
+}*/
+</style>
+
+<!-- Begin Left Menu -->
+<div class="col-large-3 col-mlarge-2 col-xlarge-2 text-left left-bar MenuEst">
+  <h2><Categorias></h2>
+    <span id=BE><ListPathCat out="2"></span>
+
+<div class="box_navega">
+<a href="https://www.bijouxbrasil.com.br/custom.asp?idloja=15908&arq=empresa.html"><img src="<BaseLoja>images/box_conheca.png" width="167" /></a>
+</div>
+    
+<div class="box_correios" ><div class="rastreio"><!--<a href="http://www2.correios.com.br/sistemas/rastreamento/" target="_blank" id="rastreio"></a>--></div>
+      <form method="GET" action="https://websro.correios.com.br/sro_bin/txect01$.QueryList?" target="_blank">
+		<input type="hidden" name="P_TIPO" value="001">
+		<input type="hidden" name="P_LINGUA" value="001">
+        <input name="P_COD_UNI" type="text" style="width:124px; height:28px; position:absolute; bottom:24px; left:12px;"  />
+        <input type="submit" value="" id="box_correios" />
+      </form>
+</div>    
+<div class="box_navega">
+<img src="<BaseLoja>images/box_navega.jpg" width="167" />
+</div>
+</div>
+
+<!-- End Left Menu -->
